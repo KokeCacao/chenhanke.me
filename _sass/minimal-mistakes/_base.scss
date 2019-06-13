@@ -218,7 +218,8 @@ figure {
   img,
   iframe,
   .fluid-width-video-wrapper {
-    margin-bottom: 1em;
+    /* HANKE: added for images */
+    margin-bottom: 4px;
   }
 
   img {
@@ -257,6 +258,20 @@ figure {
       width: 100%;
     }
   }
+}
+
+/* HANKE: added for images */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* HANKE: added for images */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 /* Figure captions */

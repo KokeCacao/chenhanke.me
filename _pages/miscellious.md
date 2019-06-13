@@ -1,7 +1,7 @@
 ---
-permalink: /miscellious/
 title: "Miscellious"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+permalink: /miscellious/
+excerpt: ""
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -14,35 +14,25 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2019-04-03T15:15:09-04:00
 toc: true
+row0:
+  - image_path: /assets/images/kokicraft.jpg
+    excerpt: ''
+    url: "/b/sample"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    section_name: "0"
 ---
+<div style="background:#afafafcc;height:8px;"></div>
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+From my first public game server with 18k of users in 2015 to self-studying Deep Learning on Udacity nano-degree, my exploration on many fields of science led me to Artificial Inteligence field. In there, I have erned the opportunities to compete on Kaggle and discuss tricks with many data scientists and phds. From Playground to Research, I have to implement papers published last month to my algorisms to improve my models. Like so, new challenges begin as I wake up every morning. 
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
-
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
-
-## List
-
-- l
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-
-## Table
-
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-For even more demo pages check the [posts archive][year-archive].
-
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+<div style="background:#afafafcc;height:8px;"></div>
 
 ---
 
-slash
+# KokiCraft: The Best GTA Minecraft game server in mainland China
+---
+{% include feature_row id="row0" type="left" %}
+
+
+---

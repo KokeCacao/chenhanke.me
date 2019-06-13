@@ -153,10 +153,10 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "MY SHORT DESCRIPTION"
-  location         : "MY LOCATION"
+  bio              : "Wanting to know everything, but time is limited &mdash; [2018/07/18]"
+  location         : "Rockville, MD"
   links:
-    - label: "Technical Personal Website"
+    - label: "Technical Website"
       icon: "fas fa-fw fa-link"
       url: "https://github.kokecacao.me"
     - label: "Twitter"

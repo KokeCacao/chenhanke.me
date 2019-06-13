@@ -32,15 +32,20 @@ foo:
 #     url: /terms/
 main:
   - title: "About Me"
-    url: /about/#3
-  - title: "Acedemic/AI Research"
-    url: /acedemic/
+    url: /about/
+    color: "#afafafcc"
+  - title: "Academic/AI Research"
+    url: /academic/
+    color: "#b7ba53"
   - title: "Robotics"
     url: /robotics/
+    color: "#77aed8cc"
   - title: "Art"
     url: /art/
+    color: "#e2bbbb"
   - title: "Miscellious"
     url: /miscellious/
+    color: "#afafafcc"
 
 
 # documentation links

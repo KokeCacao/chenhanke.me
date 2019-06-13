@@ -20,21 +20,26 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <img src=
-              {% if f.image_path contains "://" %}
-                "{{ f.image_path }}"
-              {% else %}
-                "{{ f.image_path | relative_url }}"
-              {% endif %}
-            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+
+
+            {% if f.image_path contains "youtu" %}
+              {% assign position = "inherit" %}
+              <iframe src="{{ f.image_path }}" frameborder="0" width="auto" height="auto" allowfullscreen></iframe>
+              
+            {% else %}
+              {% assign position = "absolute" %}
+              <img src=
+                {% if f.image_path contains "://" %}
+                  "{{ f.image_path }}"
+                {% else %}
+                  "{{ f.image_path | relative_url }}"
+                {% endif %}
+              alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% endif %}
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
           </div>
-        {% endif %}
-
-        {% if f.image_path contains "youtube" %}
-          {{ f.image_path }}
         {% endif %}
 
         <div class="archive__item-body">
@@ -49,7 +54,7 @@
           {% endif %}
 
           {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}" style="position: {{ position }};">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
       </div>

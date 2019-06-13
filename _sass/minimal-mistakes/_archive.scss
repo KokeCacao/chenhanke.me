@@ -65,7 +65,8 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  /* HANKE: bigger font size */
+  font-size: $type-size-5;
 
   & + p {
     text-indent: 0;
@@ -221,10 +222,11 @@
    Features
    ========================================================================== */
 
+/* HANKE: border-bottom: 1px solid $border-color; */
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 0px solid $border-color;
 
   .archive__item-title {
     margin-bottom: 0;
@@ -267,6 +269,7 @@
     padding-right: gutter(1 of 12);
   }
 
+  /* HANKE: remove absolute, video can show
   a.btn::before {
     content: '';
     position: absolute;
@@ -274,7 +277,7 @@
     top: 0;
     right: 0;
     bottom: 0;
-  }
+  }*/
 
   &--left {
     position: relative;
@@ -293,6 +296,7 @@
       margin-bottom: 2em;
     }
 
+    /* HANKE: remove absolute, video can show
     a.btn::before {
       content: '';
       position: absolute;
@@ -300,19 +304,21 @@
       top: 0;
       right: 0;
       bottom: 0;
-    }
+    }*/
 
     @include breakpoint($small) {
       .archive__item-teaser {
         float: left;
-        width: span(5 of 12);
+        /* HANKE: from span(5 of 12), to make sure img big */
+        width: 60%;
       }
 
       .archive__item-body {
         float: right;
         padding-left: gutter(0.5 of 12);
         padding-right: gutter(1 of 12);
-        width: span(7 of 12);
+        /* HANKE: from span(7 of 12), to make sure text small */
+        width: 40%;
       }
     }
   }
@@ -334,6 +340,7 @@
       margin-bottom: 2em;
     }
 
+    /* HANKE: remove absolute, video can show
     a.btn::before {
       content: '';
       position: absolute;
@@ -341,19 +348,21 @@
       top: 0;
       right: 0;
       bottom: 0;
-    }
+    }*/
 
     @include breakpoint($small) {
       text-align: right;
 
       .archive__item-teaser {
         float: right;
-        width: span(5 of 12);
+        /* HANKE: from span(5 of 12), to make sure img big */
+        width: 60%;
       }
 
       .archive__item-body {
         float: left;
-        width: span(7 of 12);
+        /* HANKE: from span(7 of 12), to make sure text small */
+        width: 40%;
         padding-left: gutter(0.5 of 12);
         padding-right: gutter(1 of 12);
       }
@@ -378,6 +387,7 @@
       margin-bottom: 2em;
     }
 
+    /* HANKE: remove absolute, video can show
     a.btn::before {
       content: '';
       position: absolute;
@@ -385,19 +395,21 @@
       top: 0;
       right: 0;
       bottom: 0;
-    }
+    }*/
 
     @include breakpoint($small) {
       text-align: center;
 
       .archive__item-teaser {
         margin: 0 auto;
-        width: span(5 of 12);
+        /* HANKE: from span(5 of 12), to make sure img big */
+        width: 60%;
       }
 
       .archive__item-body {
         margin: 0 auto;
-        width: span(7 of 12);
+        /* HANKE: from span(7 of 12), to make sure text small */
+        width: 40%;
       }
     }
   }
