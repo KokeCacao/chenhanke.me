@@ -14,6 +14,14 @@ $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
+/* HANKE: change theme color */
+$primary-color: #6f777d !default;
+$success-color: #818427 !default;
+$warning-color: #d67f05 !default;
+$danger-color: #9a5757 !default;
+$info-color: #3b9cba !default;
+
+
 /* dirt syntax highlighting (base16) */
 $base00: #231e18 !default;
 $base01: #302b25 !default;
