@@ -15,24 +15,24 @@ layouts_gallery:
 last_modified_at: 2019-04-03T15:15:09-04:00
 toc: false
 kaggler:
-  - image_path: https://www.youtube.com/embed/COWNJghBs3Y?autoplay=0&mute=0
-    excerpt: 'descriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescription'
+  - image_path: https://www.youtube.com/embed/cFqd-N7qfQs?autoplay=1&mute=1
+    excerpt: 'My growing interest into Deep Learning (CV) drive me into these Research Level competitions. Here, I analized data and create models for companies like TGS, CAMPS and HPA in the frontier research of geology, biology, and chemistry. During the school days, I have to moniter the training process of my model between class periods and during breaks. It surely becomes one of my biggest habbit and challenge.'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "..."
     btn_class: "btn--primary"
     section_name: "0"
 kokicraft:
-  - image_path: /assets/images/kokicraft.jpg
-    excerpt: 'description'
-    url: "/b/sample"
-    btn_label: "Read More"
+  - image_path: https://player.youku.com/embed/XMTQ1NDcyNDU2MA==?autoplay=0
+    excerpt: 'This is a well-known Minecraft Server in China founded, hosted, and coded by myself. In my 13 years old, it was my first buesness tcreating $500 USD per month. I learned how to host a server, prevent DDoS attacks, use SQL Databases, optimize experience, handling grelationships with other competators, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped creating texture, videos, ect... for my server.'
+    url: /sample
+    btn_label: "..."
     btn_class: "btn--primary"
     section_name: "0"
 robotics:
-  - image_path: /assets/images/robotics.jpg
-    excerpt: 'description'
+  - image_path: https://www.youtube.com/embed/gMGb-HlwpaA?autoplay=1&mute=1
+    excerpt: 'My friend Qian and I created SSFS Robotics Club in my Sophmore year. We got donations from Kuka and built the robot in 2 weeks before the midterm and got the Judges Award in FTC Competition. However, ALL the members of the team left on the second year, so I decide to restart the club on my own. After many joined the team, 11 of us designed new team logo, hoodies, websites, and looked for donations from the school and serveral other companies. Finally we were placed 1st in the Qualifier and got into Maryland State Championship.'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "..."
     btn_class: "btn--primary"
     section_name: "0"
 ---

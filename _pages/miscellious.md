@@ -13,11 +13,11 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 last_modified_at: 2019-04-03T15:15:09-04:00
-toc: true
+toc: false
 kokicraft:
   - image_path: /assets/images/nail6.jpg
-    excerpt: 'This is a well-known Minecraft Server in China founded, hosted, and coded by myself. During the process, many players and developers who enjoyed my server joined the team and helped creating texture, videos, ect... for my server. In my 13 years old, it was my first buesness tcreating $500 USD per month. (2015-2017)'
-    url: "/b/sample"
+    excerpt: 'This is a well-known Minecraft Server in China founded, hosted, and coded by myself. In my 13 years old, it was my first buesness tcreating $500 USD per month. I learned how to host a server, prevent DDoS attacks, use SQL Databases, optimize experience, handling grelationships with other competators, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped creating texture, videos, ect... for my server.'
+    url: /b/sample
     btn_label: "Read More"
     btn_class: "btn--primary"
     section_name: "0"
@@ -31,7 +31,7 @@ terasology:
 web:
   - image_path: 
     excerpt: 'Of course. I coded the website using Jekyll framework. Making icons, Web UI Design, Minecraft Inventory UI Design'
-    url: "/b/sample"
+    url: /b/sample
     btn_label: "Read More"
     btn_class: "btn--primary"
     section_name: "0"

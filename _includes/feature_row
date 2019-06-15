@@ -22,19 +22,25 @@
           <div class="archive__item-teaser">
 
 
-            {% if f.image_path contains "youtu" %}
+            {% if f.image_path contains "embed" %}
               {% assign position = "inherit" %}
-              <iframe src="{{ f.image_path }}" frameborder="0" width="auto" height="auto" allowfullscreen></iframe>
+              {% if f.image_path contains "youtu" %}
+                <iframe src="{{ f.image_path }}" frameborder="0" width="auto" height="auto" allowfullscreen></iframe>
+              {% else %}
+                <iframe src="{{ f.image_path }}" frameborder="0" width="620" height="400" allowfullscreen></iframe>
+              {% endif %}
               
             {% else %}
-              {% assign position = "absolute" %}
-              <img src=
+              <!-- HANKE: add changed from absolute -->
+              {% assign position = "inherit" %}
+              <!-- HANKE: add <a> -->
+              <a href="{{ f_url }}" target="_blank" rel="noopener noreferrer"><img src=
                 {% if f.image_path contains "://" %}
                   "{{ f.image_path }}"
                 {% else %}
                   "{{ f.image_path | relative_url }}"
                 {% endif %}
-              alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              alt="{% if f.alt %}{{ f.alt }}{% endif %}"></a>
             {% endif %}
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
@@ -48,15 +54,16 @@
           {% endif %}
 
           {% if f.excerpt %}
-            <!-- HANKE: fixed warpping -->
-            <div class="archive__item-excerpt" style="word-wrap: break-word;white-space: normal;word-break:break-word;">
+            <!-- HANKE: fixed warpping, add <a> -->
+            <a href="{{ f_url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #525252;"><div class="archive__item-excerpt" style="word-wrap: break-word;white-space: normal;word-break:break-word;">
               {{ f.excerpt | markdownify }}
-            </div>
+            </div></a>
           {% endif %}
 
           {% if f.url %}
             <!-- HANKE: add target="_blank" rel="noopener noreferrer" to prevent tabnabbing attacks -->
-            <p><a href="{{ f_url }}" target="_blank" rel="noopener noreferrer" class="btn {{ f.btn_class }}" style="position: {{ position }};">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <!-- HANKE: white color to overrride theme color -->
+            <p><a href="{{ f_url }}" target="_blank" rel="noopener noreferrer" class="btn {{ f.btn_class }}" style="color: #ffff; position: {{ position }};">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
       </div>
