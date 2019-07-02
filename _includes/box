@@ -1,0 +1,3 @@
+{% assign height = include.height %}
+{% assign color = include.color %}
+<div style="background:#{{ color }};height:{{ height }};"></div>

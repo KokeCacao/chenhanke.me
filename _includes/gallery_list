@@ -1,0 +1,79 @@
+{% if include.id %}
+  {% assign gallery_list = page[include.id] %}
+{% else %}
+  {% assign gallery_list = page.gallery_list %}
+{% endif %}
+
+{% if include.col %}
+  {% assign n_col = page[include.col] %}
+{% else %}
+  {% assign n_col = page.gallery_col %}
+{% endif %}
+
+<style type="text/css">
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  margin-top: 20px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+</style>
+
+
+{% for c in n_col %}
+  <div class="column">
+    <figure class="{{ gallery_list_layout }} {{ include.class }}">
+      {% for img in gallery_list %}
+        {% if img.col == c %}
+          {% if img.url %}
+            <a href=
+              {% if img.url contains "://" %}
+                "{{ img.url }}"
+              {% else %}
+                "{{ img.url | relative_url }}"
+              {% endif %}
+              {% if img.title %}title="{{ img.title }}"{% endif %}
+            >
+              <!-- HANKE: add card -->
+              <div class="card">
+                <img src=
+                {% if img.image_path contains "://" %}
+                  "{{ img.image_path }}"
+                {% else %}
+                  "{{ img.image_path | relative_url }}"
+                {% endif %}
+                alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+                <div class="container">
+                  <p><b>{{ img.title }}</b></p>
+                  <figcaption>{{ img.description }}</figcaption>
+                </div>
+              </div>
+            </a>
+
+          {% else %}
+            <img src=
+              {% if img.image_path contains "://" %}
+                "{{ img.image_path }}"
+              {% else %}
+                "{{ img.image_path | relative_url }}"
+              {% endif %}
+              alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </figure>
+    {% if include.caption %}
+      <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+    {% endif %}
+  </div>
+{% endfor %}
