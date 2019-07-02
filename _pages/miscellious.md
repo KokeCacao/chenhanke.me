@@ -18,21 +18,21 @@ kokicraft:
   - image_path: /assets/images/nail6.jpg
     excerpt: 'This is a well-known Minecraft Server in China founded, hosted, and coded by myself. In my 13 years old, it was my first buesness tcreating $500 USD per month. I learned how to host a server, prevent DDoS attacks, use SQL Databases, optimize experience, handling grelationships with other competators, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped creating texture, videos, ect... for my server.'
     url: /b/sample
-    btn_label: "Read More"
+    btn_label: "..."
     btn_class: "btn--primary"
     section_name: "0"
 terasology:
   - image_path: /assets/images/nail7.jpg
-    excerpt: 'In my Sephmore year, I joined an open-source project on Github developing a game called Terasology. There, I implemented a new Sponge Block and a new End Biome using Java.'
+    excerpt: 'I joined an open-source project on Github developing a game called Terasology. There, I implemented a new Sponge Block and a new End Biome using Java.'
     url: https://github.com/MovingBlocks/Terasology
     btn_label: "See Github"
     btn_class: "btn--primary"
     section_name: "0"
 web:
   - image_path: 
-    excerpt: 'Of course. I coded the website using Jekyll framework. Making icons, Web UI Design, Minecraft Inventory UI Design'
+    excerpt: 'Of course. I coded the website using Jekyll framework. Making icons, Web UI Design, Minecraft Inventory UI Design are also my strengths.'
     url: /b/sample
-    btn_label: "Read More"
+    btn_label: "..."
     btn_class: "btn--primary"
     section_name: "0"
 ---

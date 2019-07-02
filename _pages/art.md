@@ -104,16 +104,16 @@ gallery_list:
     col: 1
     description: "When classmates wearning the badge"
 hunger:
-  - image_path: https://www.youtube-nocookie.com/embed/O1ydHoHfzJk
-    excerpt: 'In my sophemore year, I cooperated with my friends and made this PSA animation for worldof7billion.org, competing in Student Video Contest. The video focus on making global awareness of hunger and raising serveral solutions to this problem. My teamates focused on creating the scripts while I animated the video.'
-    url: "#test-link"
+  - image_path: https://www.youtube.com/embed/O1ydHoHfzJk?autoplay=1&mute=1
+    excerpt: 'In my sophomore year, I cooperated with my friends and made this PSA animation for worldof7billion.org, competing in the Student Video Contest. The video focuses on making global awareness of hunger and raising several solutions to this problem. My teammates focused on creating the scripts while I animated the video.'
+    url: ""
     btn_label: "Read More"
     btn_class: "btn--primary"
     section_name: "0"
 flower:
   - image_path: /assets/images/03-植物标本封面01.png
-    excerpt: 'descriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescription'
-    url: "/b/pages/flower"
+    excerpt: '... ... ... ... ... ... ... ... ... ...'
+    url: /pages/flower
     btn_label: "Read More"
     btn_class: "btn--primary"
     section_name: "0"
