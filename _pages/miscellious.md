@@ -16,14 +16,14 @@ last_modified_at: 2019-04-03T15:15:09-04:00
 toc: false
 kokicraft:
   - image_path: /assets/images/nail6.jpg
-    excerpt: 'This is a well-known Minecraft Server in China founded, hosted, and coded by myself. In my 13 years old, it was my first buesness tcreating $500 USD per month. I learned how to host a server, prevent DDoS attacks, use SQL Databases, optimize experience, handling grelationships with other competators, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped creating texture, videos, ect... for my server.'
+    excerpt: 'This was a well-known Minecraft Server in China founded, hosted, and coded by myself in my 13 years old. It was my first buesness creating $500 USD per month in 2014. The most challenging aspect in hosting the server is to learn different techniques to prevent DDoS attacks, use SQL Databases, optimize experience, handling relationships with other competators, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped creating texture, videos, ect... for my server. It is one of the most exciting experience for me dare to intrude into adult-society.'
     url: /b/sample
     btn_label: "..."
     btn_class: "btn--primary"
     section_name: "0"
 terasology:
   - image_path: /assets/images/nail7.jpg
-    excerpt: 'I joined an open-source project on Github developing a game called Terasology. There, I implemented a new Sponge Block and a new End Biome using Java.'
+    excerpt: 'This highschool competition, organized by Google, divide real world problems from various companies into smaller tasks for competitor to pick and finish. I joined an open-source project on Github developing a game called Terasology. There, I implemented a new Sponge Block and a new End Biome using Java. Not only does it give me an award for recognition, it also tought me the method of tasks division that I used for prividing learning opportunities to novice in my robotics club. This way, they can merge with other team members easily.'
     url: https://github.com/MovingBlocks/Terasology
     btn_label: "See Github"
     btn_class: "btn--primary"

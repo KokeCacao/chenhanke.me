@@ -81,7 +81,7 @@ gratification:
 {% include box height="8px" color="b7ba53" %}
 The motivation of learning AI to me is that it can be used in many fields. "It is only a tool," I thought so. But later I realize that the theory of training neuron networks can be used to human learning too. "The biggest benefit that AI brought to us is not only a strong algorism but also the theory of learning."
 
-The interests of wanting to know the fundamental mechanism of AI drove me into Udacity's Machine Learning online course. In 1.5 years, I graduated from Machine Learning (Basics) and Deep Learning (Advanced) Nanodegrees. These courses introduced me to a group of alumni and dragged me into the AI research coterie.
+The interests of wanting to know the fundamental mechanism of AI drove me into Udacity's Machine Learning online course. In 1.5 years, I graduated from Machine Learning (Basics) and Deep Learning (Advanced) Nanodegrees. Although these knowledge are too basic compared to tricks used in Kaggle competitions, these courses introduced me to a group of alumni and dragged me into the AI research coterie.
 Three years before, I started with nothing. But now I ended up competing with other AI researchers as a high school student.
 
 Here are some projects I did as I gradually enter the fields of AI.

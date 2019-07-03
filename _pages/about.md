@@ -16,7 +16,7 @@ last_modified_at: 2019-04-03T15:15:09-04:00
 toc: false
 kaggler:
   - image_path: https://www.youtube.com/embed/cFqd-N7qfQs?autoplay=1&mute=1
-    excerpt: 'My growing interest in Deep Learning (CV) drive me into these Research Level competitions. Here, I analyzed data and created models for companies like TGS, CAMPS, and HPA in the frontier research of geology, biology, and chemistry. During the school days, I had to monitor the training process of my model between class periods and during breaks. It surely becomes one of my biggest habits and challenges.'
+    excerpt: 'My classmates from Udacity introduced me to Kaggle: a Research Level competitions. Here, I analyzed data and created models for companies like TGS, CAMPS, and HPA in the frontier research of geology, biology, and chemistry. During the school days, I had to monitor the training process of my model between class periods and during breaks. It exites me everytime I use my own hypotheisis to come up with a solution that breakes a reacord. This experience surely becomes one of my biggest habits and challenges.'
     url: "#test-link"
     btn_label: "..."
     btn_class: "btn--primary"
@@ -37,7 +37,7 @@ robotics:
     section_name: "0"
 ---
 {% include box height="8px" color="afafafcc" %}
-From my first public game server with 18k of users in 2015 to self-studying Deep Learning on Udacity nano-degree, my exploration in many fields of science led me to the Artificial Intelligence field. In there, I have earned the opportunities to compete on Kaggle and discuss tricks with many data scientists and PhDs. From Playground to Research, I have to implement papers published last month to my algorisms to improve my models. Like so, new challenges begin as I wake up every morning.
+From my first public game server with 18k of users in 2015 to self-studying Deep Learning on Udacity nano-degree, my exploration in many fields of science led me to the Artificial Intelligence field. In there, I have earned the opportunities to compete on Kaggle and discuss tricks with many data scientists and PhDs. From Playground to Research competitions, I have to read many lastest publications and sometimes implement papers published last month to my algorisms to improve my models. Like so, new challenges begin as I wake up every morning.
 {% include box height="8px" color="afafafcc" %}
 
 ---
