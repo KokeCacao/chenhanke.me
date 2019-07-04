@@ -31,8 +31,8 @@ stanford:
 beestbot:
   - image_path: assets/images/robotics.jpg
     excerpt: 'My friend Qian and I created SSFS Robotics Club in my Sophmore year. We got donations from Kuka and built the robot in 2 weeks before the midterm and got the Judges Award in FTC Competition. However, ALL the members of the team left in the second year, so I decided to restart the club on my own. After many joined the team, 11 of us designed a new team logo, hoodies, websites, and looked for donations from the school and several other companies. Finally, we were placed 1st in the Qualifier and got into Maryland State Championship.'
-    url: ???
-    btn_label: "Read More"
+    url: https://ssfs.club
+    btn_label: "See Website"
     btn_class: "btn--primary"
     section_name: "0"
 ---
