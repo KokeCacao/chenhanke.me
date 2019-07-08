@@ -65,7 +65,7 @@ url                      : https://mmistakes.github.io # the base hostname & pro
 baseurl                  : "/chenhanke.me" # the subpath of your site, e.g. "/blog"
 repository               : "kokecacao/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/avatar_small.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/avatar_small.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Hanke Chen"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -153,7 +153,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Wanting to know everything, but time is limited &mdash; [2018/07/18]"
+  bio              : "How romantic it is to learn things together with my AI model on weekends &mdash; [2019/02/02]"
   location         : "Rockville, MD"
   links:
     - label: "Technical Website"
