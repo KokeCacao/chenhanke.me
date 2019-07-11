@@ -103,18 +103,25 @@ gallery_list:
     title: "Class Logo Design"
     col: 1
     description: "When classmates wearning the badge"
+silicon:
+  - image_path: /assets/images/02-科学手绘02.png
+    excerpt: 'I used manuscripts to record my idea of possible life forms based on Silicon instead of Carbon. The chemical properties of silicon based compound gives their species unique features like having slow reaction time, living in water, and requiring high pressure. These drawing demonstrates and record my idea of how these life forms with specific properties above would look like if they exist.'
+    url: ""
+    btn_label: "."
+    btn_class: "btn--primary"
+    section_name: "0"
 hunger:
   - image_path: https://www.youtube.com/embed/O1ydHoHfzJk?autoplay=1&mute=1
     excerpt: 'In my sophomore year, I cooperated with my friends and made this PSA animation for worldof7billion.org, competing in the Student Video Contest. The video focuses on making global awareness of hunger and raising several solutions to this problem. My teammates focused on creating the scripts while I animated the video.'
     url: ""
-    btn_label: "Read More"
+    btn_label: "."
     btn_class: "btn--primary"
     section_name: "0"
 flower:
   - image_path: /assets/images/03-植物标本封面01.png
-    excerpt: '... ... ... ... ... ... ... ... ... ...'
+    excerpt: 'The Nature is the greatest artist ever in the world. I used my heart to picked, pressed, and saved about 80 samples of different flowers. In 42 pages, each species has a common name, family name, scientific name, and location.'
     url: /pages/flower
-    btn_label: "Read More"
+    btn_label: "More Pictures"
     btn_class: "btn--primary"
     section_name: "0"
 ---

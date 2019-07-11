@@ -16,7 +16,7 @@ last_modified_at: 2019-04-03T15:15:09-04:00
 toc: false
 kaggler:
   - image_path: https://www.youtube.com/embed/cFqd-N7qfQs?autoplay=1&mute=1&rel=0&showinfo=0&loop=1&playlist=cFqd-N7qfQs
-    excerpt: '**Video: Timelapse of me doing Kaggle**<br/>---<br/>Time: `2018-2020`<br/>Medals: `2 Kernel Bronze` `3 Discussion Silver` `34 Discussion Bronze`<br/><br/> >> My classmates from Udacity introduced me to Kaggle: a Research Level competitions. Here, I analyzed data and created models for companies like TGS, CAMPS, and HPA in the frontier research of geology, biology, and chemistry. During the school days, I had to monitor the training process of my model between class periods and during breaks. It exites me everytime I use my own hypotheisis to come up with a solution that breakes a reacord. This experience surely becomes one of my biggest habits and challenges.'
+    excerpt: '**Video: Timelapse of me doing Kaggle**<br/>---<br/>Time: `2018-2020`<br/>Medals: `2 Kernel Bronze` `3 Discussion Silver` `34 Discussion Bronze`<br/><br/> >> My adult-classmates from Udacity introduced me to Kaggle: a platform of online research-level AI competitions. Here, I analyzed data and created models for companies like TGS, CAMPS, and HPA in the frontier research of geology, biology, and chemistry. During the school days, I had to monitor the training process of my model between class periods and during breaks. It exites me everytime I use my own hypotheisis to come up with a solution that breakes a reacord. This experience surely becomes one of my biggest habits and challenges.'
     url: "#test-link"
     btn_label: "..."
     btn_class: "btn--primary"
@@ -37,23 +37,24 @@ robotics:
     section_name: "0"
 ---
 {% include box height="8px" color="afafafcc" %}
-From my first public game server with 344,941 users in 2015 to self-studying Deep Learning on Udacity nano-degree, my exploration in many fields of science led me to the Artificial Intelligence field. In there, I have earned the opportunities to compete on Kaggle and discuss tricks with many data scientists and PhDs. From Playground to Research competitions, I have to read many lastest publications and sometimes implement papers published last month to my algorisms to improve my models. Like so, new challenges begin as I wake up every morning.
+From learning painting, designing animations, and making independent video game... From my first public game server with 344,941 users in 2015 to self-studying Deep Learning on Udacity nano-degree, my exploration in many fields of science led me to explore the applications of Artificial Intelligence in different fields. In there, I have earned the opportunities to compete on Kaggle and discuss tricks with many data scientists and PhDs. From Playground to Research competitions, I have to read many lastest publications and sometimes implement papers published last month to my algorisms to improve my models. Like so, new challenges begin as I wake up every morning.
 {% include box height="8px" color="afafafcc" %}
 
 ---
-# Kaggler: Compete with Other Data-Scientists on AI Research 
+# Three Important Stages in Ten Years
+## Kaggler: Compete with Other Data-Scientists on AI Research 
 ---
 {% include feature_row id="kaggler" type="left" %}
 {: .notice--primary}
 
 ---
-# KokiCraft: Own the Best GTA Minecraft Game Server in Mainland China
+## KokiCraft: Own the Best GTA Minecraft Game Server in Mainland China
 ---
 {% include feature_row id="kokicraft" type="left" %}
 {: .notice--primary}
 
 ---
-# SSFS Robotics: Highschool Robotics Club Founded by Me
+## SSFS Robotics: Highschool Robotics Club Founded by Me
 ---
 {% include feature_row id="robotics" type="left" %}
 {: .notice--primary}
