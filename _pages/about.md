@@ -2,16 +2,10 @@
 title: "About Me"
 permalink: /about/
 excerpt: ""
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
+graph:
+  - url: /assets/images/02-科学手绘02.png
+    image_path: /assets/images/02-科学手绘02.png
+    alt: "Graphical Summary of My **Skills** and **Activities**"
 last_modified_at: 2019-04-03T15:15:09-04:00
 toc: false
 kaggler:
@@ -29,7 +23,7 @@ kokicraft:
     btn_class: "btn--primary"
     section_name: "0"
 robotics:
-  - image_path: https://www.youtube.com/embed/gMGb-HlwpaA?autoplay=1&mute=1&rel=0&showinfo=0&loop=1&playlist=gMGb-HlwpaA
+  - image_path: https://www.youtube.com/embed/Pk_NblzQMWQ?autoplay=1&mute=1&rel=0&showinfo=0&loop=1&playlist=Pk_NblzQMWQ
     excerpt: '**Video: SSFS Robotics 2018-2019 Summary**<br/>---<br/>`Time: 2017-2020`<br/>Achievements: `Judges Award` `First Ranked Team in local` `Advanced to Maryland State Chaimpionship`<br/><br/> >> My friend Qian and I created the SSFS Robotics Club in my Sophmore year. We got donations from Kuka and built the robot in 2 weeks before the midterm and got the Judges Award in FTC Competition. However, ALL the members of the team, including my friend graduated in the second year. As more and more students joined our club I have to restart the club on my own. After many joined the team, we designed a new team logo, hoodies, websites, and looked for donations from the school and several other companies. It soon became the biggest club in our school. Finally, we were placed 1st in the Qualifier and got into Maryland State Championship.<br/>'
     url: https://ssfs.club
     btn_label: "See Website"
@@ -37,6 +31,9 @@ robotics:
     section_name: "0"
 ---
 {% include box height="8px" color="afafafcc" %}
+
+{% include gallery id="graph" caption="Graphical Summary of My **Skills** and **Activities**" %}
+<iframe src="https://www.youtube.com/embed/cFqd-N7qfQs?autoplay=1&mute=1&rel=0&showinfo=0&loop=1&playlist=cFqd-N7qfQs" frameborder="0" width="auto" height="auto" allowfullscreen></iframe>
 From learning painting, designing animations, and making independent video game... From my first public game server with 344,941 users in 2015 to self-studying Deep Learning on Udacity nano-degree, my exploration in many fields of science led me to explore the applications of Artificial Intelligence in different fields. In there, I have earned the opportunities to compete on Kaggle and discuss tricks with many data scientists and PhDs. From Playground to Research competitions, I have to read many lastest publications and sometimes implement papers published last month to my algorisms to improve my models. Like so, new challenges begin as I wake up every morning.
 {% include box height="8px" color="afafafcc" %}
 
