@@ -30,14 +30,14 @@ terasology:
     section_name: "0"
 chaos:
   - image_path: https://www.youtube.com/embed/ATqnUGI1rRs?autoplay=0&rel=0&showinfo=0&loop=0&playlist=ATqnUGI1rRs
-    excerpt: 'This project investigates into Chaos theory, a study that concerns the predictability of a system. The theme song relates the patterns on the logistic map to people’s auditory system, creating an intuitive way to interpret chaos theory. The project (see button below) creates a 3D interactive demo using 3-body system. It also generates a logistic map representing the sensitivity of different parameters.'
+    excerpt: '**Video: Chaos Theme Song**<br/>---<br/>Time: `2019`<br/>Achievements: `Simulation of Chaos System` `Analyze Generated Data using Visualizations` `Theme song generation`<br/><br/> >> This project investigates into Chaos theory, a study that concerns the predictability of a system. The theme song relates the patterns on the logistic map to people’s auditory system, creating an intuitive way to interpret chaos theory. The project (see button below) creates a 3D interactive demo using 3-body system. It also generates a logistic map representing the sensitivity of different parameters.'
     url: /assets/html/Chaos Theory and N-Body Simulation.html
     btn_label: "See Project"
     btn_class: "btn--primary"
     section_name: "0"
 web:
-  - image_path: 
-    excerpt: 'Of course. I coded the website using Jekyll framework. Making icons, Web UI Design, Minecraft Inventory UI Design are also my strengths.'
+  - image_path: /assets/images/web.jpg
+    excerpt: '**Image: Screen shot of my technical webpage**<br/>---<br/>Time: `2018`<br/>Achievements: `UI Design` `html` `Ruby Jekyll` `java script`<br/><br/> >> Of course. I coded the website using Jekyll framework. Making icons, Web UI Design, Minecraft Inventory UI Design are also my strengths. But now, let me show you my technical webpage.'
     url: https://github.kokecacao.me/
     btn_label: "My Technical Webpage"
     btn_class: "btn--primary"
