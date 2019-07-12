@@ -1,6 +1,6 @@
 ---
-title: "Miscellious"
-permalink: /miscellious/
+title: "Miscellaneous"
+permalink: /miscellaneous/
 excerpt: ""
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png

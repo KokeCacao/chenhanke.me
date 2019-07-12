@@ -127,7 +127,7 @@ flower:
 ---
 
 {% include box height="8px" color="e2bbbb" %}
-Description
+What is art? To me, art is a way of thinking. It is a representation of the nature, a dimensional interpretations, a sensitivty to shapes and color. Art is an idea, an idea that brings big innovations.
 {% include box height="8px" color="e2bbbb" %}
 
 ---

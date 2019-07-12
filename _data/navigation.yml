@@ -43,8 +43,8 @@ main:
   - title: "Art"
     url: /art/
     color: "#e2bbbb"
-  - title: "Miscellious"
-    url: /miscellious/
+  - title: "Miscellaneous"
+    url: /miscellaneous/
     color: "#afafafcc"
 
 
