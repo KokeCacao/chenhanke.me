@@ -23,9 +23,9 @@ qubo:
     section_name: "0"
 stanford:
   - image_path: assets/images/nail3.jpg
-    excerpt: '**Image: Reinforcement Algorithm and the Robot**<br/>---<br/>`Time: 2018`<br/>Achievements: `Reinforcement Learning Algorithm`<br/><br/> >> In this summer school, I followed Stanford CS231n curriculum and programmed a robot capable of doing tasks like dancing, sweeping the floor, solving the maze. I also used Reinforcement Learning to optimize the path taking with dynamic rick calculation. This technology I programmed is important because it allows the robot to perform dynamic path planning under different unknown environments.'
-    url: ???
-    btn_label: "..."
+    excerpt: '**Image: Reinforcement Algorithm and the Robot**<br/>---<br/>`Time: 2018`<br/>Achievements: `Reinforcement Learning Algorithm`<br/><br/> >> In this summer school, I followed Stanford CS231n curriculum and programmed a robot capable of doing tasks like dancing, sweeping the floor, solving the maze. I also used Reinforcement Learning to optimize the path taking with dynamic rick calculation. This technology I programmed is important because it allows the robot to perform dynamic path planning under different unknown environments.<br/>(Jupyter Notebook)[/assets/html/ReinforcementLearningOnHamster.html]'
+    url: https://docs.google.com/presentation/d/e/2PACX-1vTtiaaXqzYCp5xfXZEPY_MdCfOoejTaMRNL6lZAnRQoCG7xd-hUmVoHIkVr8_za0w/pub?start=true&loop=true&delayms=2000
+    btn_label: "Power Point"
     btn_class: "btn--primary"
     section_name: "0"
 beestbot:

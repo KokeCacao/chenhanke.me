@@ -42,20 +42,17 @@ From learning painting, designing animations, and making independent video game.
 
 ---
 # Three Important Stages in Ten Years
-## Kaggler: Compete with Other Data-Scientists on AI Research 
----
+## 0x00 Kaggler: Compete with Other Data-Scientists on AI Research 
 {% include feature_row id="kaggler" type="left" %}
 {: .notice--primary}
 
 ---
-## KokiCraft: Own the Best GTA Minecraft Game Server in Mainland China
----
+## 0x01 KokiCraft: Own the Best GTA Minecraft Game Server in Mainland China
 {% include feature_row id="kokicraft" type="left" %}
 {: .notice--primary}
 
 ---
-## SSFS Robotics: Highschool Robotics Club Founded by Me
----
+## 0x02 SSFS Robotics: Highschool Robotics Club Founded by Me
 {% include feature_row id="robotics" type="left" %}
 {: .notice--primary}
 

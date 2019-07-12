@@ -21,11 +21,25 @@ kokicraft:
     btn_label: "..."
     btn_class: "btn--primary"
     section_name: "0"
+kokicraft:
+  - image_path: /assets/images/nail6.jpg
+    excerpt: '...'
+    url: /b/sample
+    btn_label: "..."
+    btn_class: "btn--primary"
+    section_name: "0"
 terasology:
   - image_path: /assets/images/nail7.jpg
     excerpt: 'This highschool competition, organized by Google, divide real world problems from various companies into smaller tasks for competitor to pick and finish. I joined an open-source project on Github developing a game called Terasology. There, I implemented a new Sponge Block and a new End Biome using Java. Not only does it give me an award for recognition, it also tought me the method of tasks division that I used for prividing learning opportunities to novice in my robotics club. This way, they can merge with other team members easily.'
     url: https://github.com/MovingBlocks/Terasology
     btn_label: "See Github"
+    btn_class: "btn--primary"
+    section_name: "0"
+chaos:
+  - image_path: /assets/images/nail7.jpg
+    excerpt: '.'
+    url: 
+    btn_label: "See Project"
     btn_class: "btn--primary"
     section_name: "0"
 web:
@@ -45,10 +59,24 @@ web:
 {: .notice--primary}
 
 ---
+# Farmer's Solution: Helping Nigeria Farmers with Scientific Approach
+---
+{% include feature_row id="farmer" type="left" %}
+{: .notice--primary}
+
+
+---
 # Google Code-in: Terasology Open Source Game Development
 ---
 {% include feature_row id="terasology" type="left" %}
 {: .notice--primary}
+
+---
+# Game of Chaos: Graphical Simulation to Analyze Chaos Theory
+---
+{% include feature_row id="chaos" type="left" %}
+{: .notice--primary}
+
 
 ---
 # Web Development / UI Design
