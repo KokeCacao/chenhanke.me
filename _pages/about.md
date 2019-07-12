@@ -3,20 +3,20 @@ title: "About Me"
 permalink: /about/
 excerpt: ""
 graph:
-  - url: /assets/images/02-科学手绘02.png
-    image_path: /assets/images/02-科学手绘02.png
+  - url: /assets/images/title.jpg
+    image_path: /assets/images/title.jpg
     alt: "Graphical Summary of My **Skills** and **Activities**"
 last_modified_at: 2019-04-03T15:15:09-04:00
 toc: false
 kaggler:
   - image_path: https://www.youtube.com/embed/cFqd-N7qfQs?autoplay=1&mute=1&rel=0&showinfo=0&loop=1&playlist=cFqd-N7qfQs
     excerpt: '**Video: Timelapse of me doing Kaggle**<br/>---<br/>Time: `2018-2020`<br/>Medals: `2 Kernel Bronze` `3 Discussion Silver` `34 Discussion Bronze`<br/><br/> >> My adult-classmates from Udacity introduced me to Kaggle: a platform of online research-level AI competitions. Here, I analyzed data and created models for companies like TGS, CAMPS, and HPA in the frontier research of geology, biology, and chemistry. During the school days, I had to monitor the training process of my model between class periods and during breaks. It exites me everytime I use my own hypotheisis to come up with a solution that breakes a reacord. This experience surely becomes one of my biggest habits and challenges.'
-    url: "#test-link"
-    btn_label: "..."
+    url: "/academic"
+    btn_label: "Go to AI Research Tab"
     btn_class: "btn--primary"
     section_name: "0"
 kokicraft:
-  - image_path: https://player.youku.com/embed/XMTQ1NDcyNDU2MA==?autoplay=0&rel=0&showinfo=0&loop=0&playlist=XMTQ1NDcyNDU2MA==
+  - image_path: https://www.youtube.com/embed/PhJq5YnzfUo?autoplay=0&rel=0&showinfo=0&loop=0&playlist=PhJq5YnzfUo
     excerpt: '**Video: A Youtuber recording his experience on my server**<br/>---<br/>Time: `2014-2018`<br/>Achievements: `First Buesness Created by Myself` `344,941 players` `$500 USD/month`<br/><br/> >> This is a well-known Minecraft Server in China founded, hosted, and coded by myself. In my 13 years old, it was my first business creating $500 USD per month. I learned how to host a server, prevent DDoS attacks, use SQL Databases, optimize the experience, handling relationships with other competitors, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped to create texture, videos, etc... for my server.'
     url: /sample
     btn_label: "..."

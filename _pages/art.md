@@ -106,9 +106,6 @@ gallery_list:
 silicon:
   - image_path: /assets/images/02-科学手绘01.png
     excerpt: '**Image: Manuscripts Sample**<br/>---<br/>Time: `2018`<br/>Material: `Watercolor` `Ink`<br/><br/> >> I used manuscripts to record my idea of possible life forms based on Silicon instead of Carbon. The chemical properties of silicon based compound gives their species unique features like having slow reaction time, living in water, and requiring high pressure. These drawing demonstrates and record my idea of how these life forms with specific properties above would look like if they exist.'
-    url: ""
-    btn_label: "."
-    btn_class: "btn--primary"
     section_name: "0"
 hunger:
   - image_path: https://www.youtube.com/embed/O1ydHoHfzJk?autoplay=1&mute=1
