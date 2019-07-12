@@ -23,14 +23,14 @@ kokicraft:
     section_name: "0"
 kokicraft:
   - image_path: /assets/images/nail6.jpg
-    excerpt: '...'
-    url: /b/sample
+    excerpt: '**Video: A Youtuber recording his experience on my server**<br/>---<br/>Time: `2014-2018`<br/>Achievements: `First Buesness Created by Myself` `344,941 players` `$500 USD/month`<br/><br/> >> This is a well-known Minecraft Server in China founded, hosted, and coded by myself. In my 13 years old, it was my first business creating $500 USD per month. I learned how to host a server, prevent DDoS attacks, use SQL Databases, optimize the experience, handling relationships with other competitors, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped to create texture, videos, etc... for my server.'
+    url: /sample
     btn_label: "..."
     btn_class: "btn--primary"
     section_name: "0"
 terasology:
   - image_path: /assets/images/nail7.jpg
-    excerpt: 'This highschool competition, organized by Google, divide real world problems from various companies into smaller tasks for competitor to pick and finish. I joined an open-source project on Github developing a game called Terasology. There, I implemented a new Sponge Block and a new End Biome using Java. Not only does it give me an award for recognition, it also tought me the method of tasks division that I used for prividing learning opportunities to novice in my robotics club. This way, they can merge with other team members easily.'
+    excerpt: '**Image: Screen shot of my sponge block in the game**<br/>---<br/>Time: `2018`<br/>Achievements: `added another End Dimension in the game` `added sponge blocks in the game`<br/><br/> >> This highschool competition, organized by Google, divide real world problems from various companies into smaller tasks for competitor to pick and finish. I joined an open-source project on Github developing a game called Terasology. There, I implemented a new Sponge Block and a new End Biome using Java. Not only does it give me an award for recognition, it also tought me the method of tasks division that I used for prividing learning opportunities to novice in my robotics club. This way, they can merge with other team members easily.'
     url: https://github.com/MovingBlocks/Terasology
     btn_label: "See Github"
     btn_class: "btn--primary"
