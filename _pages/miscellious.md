@@ -16,13 +16,6 @@ last_modified_at: 2019-04-03T15:15:09-04:00
 toc: false
 kokicraft:
   - image_path: /assets/images/nail6.jpg
-    excerpt: 'This was a well-known Minecraft Server in China founded, hosted, and coded by myself in my 13 years old. It was my first buesness creating $500 USD per month in 2014. The most challenging aspect in hosting the server is to learn different techniques to prevent DDoS attacks, use SQL Databases, optimize experience, handling relationships with other competators, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped creating texture, videos, ect... for my server. It is one of the most exciting experience for me dare to intrude into adult-society.'
-    url: /b/sample
-    btn_label: "..."
-    btn_class: "btn--primary"
-    section_name: "0"
-kokicraft:
-  - image_path: /assets/images/nail6.jpg
     excerpt: '**Video: A Youtuber recording his experience on my server**<br/>---<br/>Time: `2014-2018`<br/>Achievements: `First Buesness Created by Myself` `344,941 players` `$500 USD/month`<br/><br/> >> This is a well-known Minecraft Server in China founded, hosted, and coded by myself. In my 13 years old, it was my first business creating $500 USD per month. I learned how to host a server, prevent DDoS attacks, use SQL Databases, optimize the experience, handling relationships with other competitors, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped to create texture, videos, etc... for my server.'
     url: /sample
     btn_label: "..."
@@ -36,17 +29,17 @@ terasology:
     btn_class: "btn--primary"
     section_name: "0"
 chaos:
-  - image_path: /assets/images/nail7.jpg
-    excerpt: '.'
-    url: 
+  - image_path: https://www.youtube.com/embed/ATqnUGI1rRs?autoplay=0&rel=0&showinfo=0&loop=0&playlist=ATqnUGI1rRs
+    excerpt: 'This project investigates into Chaos theory, a study that concerns the predictability of a system. The theme song relates the patterns on the logistic map to people’s auditory system, creating an intuitive way to interpret chaos theory. The project (see button below) creates a 3D interactive demo using 3-body system. It also generates a logistic map representing the sensitivity of different parameters.'
+    url: /assets/html/Chaos Theory and N-Body Simulation.html
     btn_label: "See Project"
     btn_class: "btn--primary"
     section_name: "0"
 web:
   - image_path: 
     excerpt: 'Of course. I coded the website using Jekyll framework. Making icons, Web UI Design, Minecraft Inventory UI Design are also my strengths.'
-    url: /b/sample
-    btn_label: "..."
+    url: https://github.kokecacao.me/
+    btn_label: "My Technical Webpage"
     btn_class: "btn--primary"
     section_name: "0"
 ---
