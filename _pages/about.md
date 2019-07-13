@@ -17,9 +17,9 @@ kaggler:
     section_name: "0"
 kokicraft:
   - image_path: https://www.youtube.com/embed/PhJq5YnzfUo?autoplay=0&rel=0&showinfo=0&loop=0&playlist=PhJq5YnzfUo
-    excerpt: '**Video: A Youtuber recording his experience on my server**<br/>---<br/>Time: `2014-2018`<br/>Achievements: `First Buesness Created by Myself` `344,941 players` `$500 USD/month`<br/><br/> >> This is a well-known Minecraft Server in China founded, hosted, and coded by myself. In my 13 years old, it was my first business creating $500 USD per month. I learned how to host a server, prevent DDoS attacks, use SQL Databases, optimize the experience, handling relationships with other competitors, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped to create texture, videos, etc... for my server.'
-    url: /sample
-    btn_label: "..."
+    excerpt: '**Video: KokiCraft Trailer**<br/>---<br/>Time: `2014-2018`<br/>Achievements: `First Buesness Created by Myself` `344,941 players` `$500 USD/month`<br/><br/> >> This is a well-known Minecraft Server in China founded, hosted, and coded by myself. In my 13 years old, it was my first business creating $500 USD per month. I learned how to host a server, prevent DDoS attacks, use SQL Databases, optimize the experience, handling relationships with other competitors, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped to create texture, videos, etc... for my server.'
+    url: https://player.youku.com/embed/XMTQ1NDcyNDU2MA==?autoplay=0&rel=0&showinfo=0&loop=0&playlist=XMTQ1NDcyNDU2MA==
+    btn_label: "Video of An Actual Player Playing KokiCraft"
     btn_class: "btn--primary"
     section_name: "0"
 robotics:
