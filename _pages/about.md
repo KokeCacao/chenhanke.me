@@ -3,7 +3,7 @@ title: "About Me"
 permalink: /about/
 excerpt: ""
 graph:
-  - url: /assets/images/title.jpg
+  - url: /assets/images/title-min.jpg
     image_path: /assets/images/title.jpg
     alt: "Graphical Summary of My **Skills** and **Activities**"
 last_modified_at: 2019-04-03T15:15:09-04:00
@@ -33,7 +33,7 @@ robotics:
 {% include box height="8px" color="afafafcc" %}
 
 {% include gallery id="graph" caption="Graphical Summary of My **Skills** and **Activities**" %}
-<iframe src="https://www.youtube.com/embed/OxBv_7HmpWY?autoplay=1&mute=1&rel=0&showinfo=0&loop=1&playlist=OxBv_7HmpWY" frameborder="0" width="auto" height="auto" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/OxBv_7HmpWY?autoplay=0&mute=0&rel=0&showinfo=0&loop=1&playlist=OxBv_7HmpWY" frameborder="0" width="auto" height="auto" allowfullscreen></iframe>
 From learning painting, designing animations, and making independent video game... From my first public game server with 344,941 users in 2015 to self-studying Deep Learning on Udacity nano-degree, my exploration in many fields of science led me to explore the applications of Artificial Intelligence in different fields. In there, I have earned the opportunities to compete on Kaggle and discuss tricks with many data scientists and PhDs. From Playground to Research competitions, I have to read many lastest publications and sometimes implement papers published last month to my algorisms to improve my models. Like so, new challenges begin as I wake up every morning.
 {% include box height="8px" color="afafafcc" %}
 
