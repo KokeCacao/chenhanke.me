@@ -44,7 +44,7 @@ web:
     section_name: "0"
 nigeria:
   - image_path: /assets/images/web.jpg
-    excerpt: '**Image: Helping Nigerian Farmers' Carrer**<br/>---<br/>Time: `2018`<br/>Achievements: `...`<br/><br/> >> 597 Sandy Spring Friends School - Leadership Initiatives IBIP'
+    excerpt: '**Image: Helping Carrers of Nigerian Farmers**<br/>---<br/>Time: `2018`<br/>Achievements: `...`<br/><br/> >> 597 Sandy Spring Friends School - Leadership Initiatives IBIP'
     url: https://icantransformtheworld.org/597-sandy-spring-friends-school/
     btn_label: "Volunteering Team Webpage"
     btn_class: "btn--primary"
