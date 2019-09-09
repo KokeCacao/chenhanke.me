@@ -23,23 +23,30 @@ kokicraft:
     section_name: "0"
 terasology:
   - image_path: /assets/images/nail7.jpg
-    excerpt: '**Image: Screen shot of my sponge block in the game**<br/>---<br/>Time: `2018`<br/>Achievements: `added another End Dimension in the game` `added sponge blocks in the game`<br/><br/> >> This highschool competition, organized by Google, divide real world problems from various companies into smaller tasks for competitor to pick and finish. I joined an open-source project on Github developing a game called Terasology. There, I implemented a new Sponge Block and a new End Biome using Java. Not only does it give me an award for recognition, it also tought me the method of tasks division that I used for prividing learning opportunities to novice in my robotics club. This way, they can merge with other team members easily.'
+    excerpt: '**Image: Screen shot of my sponge block in game**<br/>---<br/>Time: `2018`<br/>Achievements: `added another End Dimension in the game` `added sponge blocks in the game`<br/><br/> >> This highschool competition, organized by Google, divides real world problems from various companies into smaller tasks for competitors to choose from and finalize. I joined an open-source project on Github developing a game called Terasology. There, I implemented a new Sponge Block and a new End Biome using Java. Not only did this give me an award for recognition, it also taught me the method of task division that I used to provide learning opportunities to novices in my robotics club. This way, they can merge with other team members easily.'
     url: https://github.com/MovingBlocks/Terasology
     btn_label: "See Github"
     btn_class: "btn--primary"
     section_name: "0"
 chaos:
   - image_path: https://www.youtube.com/embed/ATqnUGI1rRs?autoplay=0&rel=0&showinfo=0&loop=0&playlist=ATqnUGI1rRs
-    excerpt: '**Video: Chaos Theme Song**<br/>---<br/>Time: `2019`<br/>Achievements: `Simulation of Chaos System` `Analyze Generated Data using Visualizations` `Theme song generation`<br/><br/> >> This project investigates into Chaos theory, a study that concerns the predictability of a system. The theme song relates the patterns on the logistic map to people’s auditory system, creating an intuitive way to interpret chaos theory. The project (see button below) creates a 3D interactive demo using 3-body system. It also generates a logistic map representing the sensitivity of different parameters.'
+    excerpt: '**Video: Chaos Theme Song**<br/>---<br/>Time: `2019`<br/>Achievements: `Simulation of Chaos System` `Analyze Generated Data using Visualizations` `Theme song generation`<br/><br/> >> This project investigates Chaos theory, a study that concerns the predictability of a system. The theme song relates the patterns ofn the logistical map to people’s auditory system, creating an intuitive way to interpret chaos theory. The project (see button below) creates an interactive 3D demo using a 3-body system. It also generates a logistical map representing the sensitivity of different parameters.'
     url: /assets/html/Chaos Theory and N-Body Simulation.html
     btn_label: "See Project"
     btn_class: "btn--primary"
     section_name: "0"
 web:
   - image_path: /assets/images/web.jpg
-    excerpt: '**Image: Screen shot of my technical webpage**<br/>---<br/>Time: `2018`<br/>Achievements: `UI Design` `html` `Ruby Jekyll` `java script`<br/><br/> >> Of course. I coded the website using Jekyll framework. Making icons, Web UI Design, Minecraft Inventory UI Design are also my strengths. But now, let me show you my technical webpage.'
+    excerpt: '**Image: Screen shot of my technical webpage**<br/>---<br/>Time: `2018`<br/>Achievements: `UI Design` `html` `Ruby Jekyll` `java script`<br/><br/> >> I coded this website using Jekyll framework. Making icons, Web UI Design, Minecraft Inventory UI Design are also my strengths. But now, let me show you my technical webpage.'
     url: https://github.kokecacao.me/
     btn_label: "My Technical Webpage"
+    btn_class: "btn--primary"
+    section_name: "0"
+nigeria:
+  - image_path: /assets/images/web.jpg
+    excerpt: '**Image: Helping Nigerian Farmers' Carrer**<br/>---<br/>Time: `2018`<br/>Achievements: `...`<br/><br/> >> 597 Sandy Spring Friends School - Leadership Initiatives IBIP
+    url: https://icantransformtheworld.org/597-sandy-spring-friends-school/
+    btn_label: "Volunteering Team Webpage"
     btn_class: "btn--primary"
     section_name: "0"
 ---
@@ -75,6 +82,12 @@ web:
 # Web Development / UI Design
 ---
 {% include feature_row id="web" type="left" %}
+{: .notice--primary}
+
+---
+# Nigeria Stuff
+---
+{% include feature_row id="nigeria" type="left" %}
 {: .notice--primary}
 
 ---

@@ -16,14 +16,14 @@ last_modified_at: 2019-04-03T15:15:09-04:00
 toc: false
 qubo:
   - image_path: https://www.youtube.com/embed/jzgOXfQ5j7U?autoplay=0&mute=1&showinfo=0&rel=0&loop=1&playlist=jzgOXfQ5j7U
-    excerpt: '**Video: 3D Structure of the Robot**<br/>---<br/>`Time: 2018-2020`<br/>Position: `Computer Vision Engineer`<br/><br/> >> I joined Robotics At Maryland (R@M) by chance when I was looking for donations for SSFS Robotics, becaming their youngest member. I am currently working with students from R@M to build an underwater robot for Robosub competition. I use Deep Learning algorisms to improve the vision of their robot in water. Specifically, I used Nasnet-mobile architecture to train task-specific object recognizable computer vision system for navigation.'
+    excerpt: '**Video: 3D Structure of the Robot**<br/>---<br/>`Time: 2018-2020`<br/>Position: `Computer Vision Engineer`<br/><br/> >> I joined Robotics At Maryland (R@M) by chance when I was looking for donations for SSFS Robotics, and became their youngest member. I am currently working with students from R@M to build an underwater robot for the Robosub competition. I used Deep Learning algorithms to improve the vision of our robot underwater. Specifically, I used Nasnet-mobile architecture to train task-specific object recognizable computer vision systems for navigation.'
     url: http://ram.umd.edu/
     btn_label: "See Website"
     btn_class: "btn--primary"
     section_name: "0"
 stanford:
   - image_path: assets/images/nail3.jpg
-    excerpt: '**Image: Reinforcement Algorithm and the Robot**<br/>---<br/>`Time: 2018`<br/>Achievements: `Reinforcement Learning Algorithm`<br/><br/> >> In this summer school, I followed Stanford CS231n curriculum and programmed a robot capable of doing tasks like dancing, sweeping the floor, solving the maze. I also used Reinforcement Learning to optimize the path taking with dynamic rick calculation. This technology I programmed is important because it allows the robot to perform dynamic path planning under different unknown environments.<br/>(Jupyter Notebook)[/assets/html/ReinforcementLearningOnHamster.html]'
+    excerpt: '**Image: Reinforcement Algorithm and the Robot**<br/>---<br/>`Time: 2018`<br/>Achievements: `Reinforcement Learning Algorithm`<br/><br/> >> In this summer school, I followed Stanford CS231n curriculum and programmed a robot capable of doing tasks like dancing, sweeping the floor, and solving a maze. I also used Reinforcement Learning to optimize the path taken with dynamic risk calculations. This technology I programmed is important because it allows the robot to perform dynamic path planning in different unknown environments.<br/>(Jupyter Notebook)[/assets/html/ReinforcementLearningOnHamster.html]'
     url: https://docs.google.com/presentation/d/e/2PACX-1vTtiaaXqzYCp5xfXZEPY_MdCfOoejTaMRNL6lZAnRQoCG7xd-hUmVoHIkVr8_za0w/pub?start=true&loop=true&delayms=2000
     btn_label: "Power Point"
     btn_class: "btn--primary"
@@ -37,7 +37,7 @@ beestbot:
     section_name: "0"
 ---
 {% include box height="8px" color="77aed8cc" %}
-Robotics is a product of Engeneering, Computer Science, and Artificial Intelligence. AI is its brain where as engeneering creates its body.
+Robotics is a conglomeration of Engineering, Computer Science, and Artificial Intelligence. AI is its brain whereas engineering creates its body.
 {% include box height="8px" color="77aed8cc" %}
 
 ---
