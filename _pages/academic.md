@@ -21,6 +21,13 @@ cell:
     btn_label: "Read Report"
     btn_class: "btn--primary"
     section_name: "0"
+siim:
+  - image_path: /assets/images/nail2.jpg
+    excerpt: '**SIIM-ACR Pneumothorax Segmentation**<br/>---<br/>Time: `2017`<br/>Achievements: `84.15% AUC Score` `Bronze Medal Top7%`<br/><br/> >> I developed an AI model to classify (and if present, segment) pneumothorax from a set of chest radiographic images, aiding in the early recognition of pneumothoraces and save lives. With our new proposed "three-stage method", we are able to achieve +0.02 accuracy on the test dataset.'
+    url: ...
+    btn_label: "..."
+    btn_class: "btn--primary"
+    section_name: "0"
 bike:
   - image_path: /assets/images/nail9.jpg
     excerpt: '**Image: Predicted Trend vs. Real Trend**<br/>---<br/>Time: `2017`<br/>Achievements: `Model Prediction Accuracy 80.3%`<br/><br/> >> I used a simple feed forward Neural Network to predict the hourly usage amount of shared bikes, using features like the season, weather, and date.'
@@ -58,7 +65,7 @@ drone:
     section_name: "0"
 cancer:
   - image_path: /assets/images/nail2.jpg
-    excerpt: '**Image: Predicted Trend vs. Real Trend**<br/>---<br/>Time: `2019`<br/>Achievements: `97.82% AUC score` `1st Ranked on Public Leaderboard (Top 1%)` `113rd Ranked on Private Leaderboard (Top 10%)`<br/><br/> >> In this Kaggle Competition, I use neuron-network to detect cancer samples from histopathologic images with unbelieveable 98% accuracy, surpassing the accuracy of PatchCamelyon benchmark model in the paper `B. S. Veeling, J. Linmans, J. Winkens, T. Cohen, M. Welling. "Rotation Equivariant CNNs for Digital Pathology". arXiv:1806.03962` (AUC 96.3%). Although people cheated using the method I discovered in the competition, I was still ranked TOP 10% with my hardwork.'
+    excerpt: '**Image: Kaggle**<br/>---<br/>Time: `2019`<br/>Achievements: `97.82% AUC score` `1st Ranked on Public Leaderboard (Top 1%)` `113rd Ranked on Private Leaderboard (Top 10%)`<br/><br/> >> In this Kaggle Competition, I use neuron-network to detect cancer samples from histopathologic images with unbelieveable 98% accuracy, surpassing the accuracy of PatchCamelyon benchmark model in the paper `B. S. Veeling, J. Linmans, J. Winkens, T. Cohen, M. Welling. "Rotation Equivariant CNNs for Digital Pathology". arXiv:1806.03962` (AUC 96.3%). Although people cheated using the method I discovered in the competition, I was still ranked TOP 10% with my hardwork.'
     url: "https://www.kaggle.com/c/histopathologic-cancer-detection/discussion/87367"
     btn_label: "See Technical Detail"
     btn_class: "btn--primary"
@@ -71,13 +78,6 @@ imet:
     btn_class: "btn--primary"
     section_name: "0"
 gratification:
-  - image_path: /assets/images/nail2.jpg
-    excerpt: 'No information so far because I am currently competiting in this competition'
-    url: ...
-    btn_label: "..."
-    btn_class: "btn--primary"
-    section_name: "0"
-siim:
   - image_path: /assets/images/nail2.jpg
     excerpt: 'No information so far because I am currently competiting in this competition'
     url: ...
@@ -97,6 +97,11 @@ Here are some projects I did as I gradually entered the field of AI.
 # Google Science Fair: Extracting Cellular Location of Human Proteins Using Deep Learning
 ---
 {% include feature_row id="cell" type="left" %}
+{: .notice--success}
+---
+# Kaggle: SIIM-ACR Pneumothorax Segmentation
+---
+{% include feature_row id="siim" type="left" %}
 {: .notice--success}
 ---
 # Predicting the Usage of Shared Bikes Using Neuron Networks (NN)
@@ -137,9 +142,4 @@ Here are some projects I did as I gradually entered the field of AI.
 # Kaggle: Instant Gratification
 ---
 {% include feature_row id="gratification" type="left" %}
-{: .notice--success}
----
-# Kaggle: SIIM-ACR Pneumothorax Segmentation
----
-{% include feature_row id="siim" type="left" %}
 {: .notice--success}
