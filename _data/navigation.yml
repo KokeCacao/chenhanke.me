@@ -41,7 +41,7 @@ main:
     url: /robotics/
     color: "#77aed8cc"
   - title: "Art"
-    url: /art/
+    url: "https://art.chenhanke.me"
     color: "#e2bbbb"
   - title: "Miscellaneous"
     url: /miscellaneous/
