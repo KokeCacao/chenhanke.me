@@ -17,15 +17,15 @@ toc: false
 cell:
   - image_path: https://www.youtube-nocookie.com/embed/bcU--nlPIRM?autoplay=1&mute=1&showinfo=0&rel=0&loop=1&playlist=bcU--nlPIRM
     excerpt: '**Video: Report Presentation**<br/>---<br/>Time: `2018`<br/>Achievements: `Model Prediction Accuracy 63.07%`<br/><br/> >> I implemented a Convolution Neural Network with Residue and Squeeze-Excitation layers classifier to locate given proteins of any type in a subcellular structure. After training the model using a series of techniques, it can locate thousands of proteins in 27 different human cell types into 28 subcellular locations, way significant than historical approaches. The model can classify 4,500 images per minute with an accuracy of 63.07%, surpassing human performance in accuracy (by 35%) and speed.'
-    url: https://www.googlesciencefair.com/projects/2018/f8a2584ecc30ea734d38042a861db599f14dd9a8fb0618b1bb10c480e7dc13b8
-    btn_label: "Read Report"
+    url: https://doi.org/10.13140/RG.2.2.16431.28326
+    btn_label: "Read Paper"
     btn_class: "btn--primary"
     section_name: "0"
 siim:
-  - image_path: /assets/images/nail2.jpg
-    excerpt: '**SIIM-ACR Pneumothorax Segmentation**<br/>---<br/>Time: `2017`<br/>Achievements: `84.15% AUC Score` `Bronze Medal Top7%`<br/><br/> >> I developed an AI model to classify (and if present, segment) pneumothorax from a set of chest radiographic images, aiding in the early recognition of pneumothoraces and save lives. With our new proposed "three-stage method", we are able to achieve +0.02 accuracy on the test dataset.'
-    url: ...
-    btn_label: "..."
+  - image_path: /assets/images/lung.png
+    excerpt: '**SIIM-ACR Pneumothorax Segmentation**<br/>---<br/>Time: `2019`<br/>Achievements: `84.15% AUC Score` `Bronze Medal Top7%`<br/><br/> >> I I cooperated with two graduate students from SJTU University to develope an AI model to classify (and if present, segment) pneumothorax from a set of chest radiographic images, aiding in the early recognition of pneumothoraces and save lives. With our new proposed "three-stage method", we are able to achieve +0.02 accuracy on the test dataset.'
+    url: https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation
+    btn_label: "Competition Website"
     btn_class: "btn--primary"
     section_name: "0"
 bike:
@@ -64,29 +64,36 @@ drone:
     btn_class: "btn--primary"
     section_name: "0"
 cancer:
-  - image_path: /assets/images/nail2.jpg
-    excerpt: '**Image: Kaggle**<br/>---<br/>Time: `2019`<br/>Achievements: `97.82% AUC score` `1st Ranked on Public Leaderboard (Top 1%)` `113rd Ranked on Private Leaderboard (Top 10%)`<br/><br/> >> In this Kaggle Competition, I use neuron-network to detect cancer samples from histopathologic images with unbelieveable 98% accuracy, surpassing the accuracy of PatchCamelyon benchmark model in the paper `B. S. Veeling, J. Linmans, J. Winkens, T. Cohen, M. Welling. "Rotation Equivariant CNNs for Digital Pathology". arXiv:1806.03962` (AUC 96.3%). Although people cheated using the method I discovered in the competition, I was still ranked TOP 10% with my hardwork.'
+  - image_path: /assets/images/cancer.png
+    excerpt: '**Image: Kaggle Competition**<br/>---<br/>Time: `2019`<br/>Achievements: `97.82% AUC score` `1st Ranked on Public Leaderboard (Top 1%)` `113rd Ranked on Private Leaderboard (Top 10%)`<br/><br/> >> In this Kaggle Competition, I use neuron-network to detect cancer samples from histopathologic images with unbelieveable 98% accuracy, surpassing the accuracy of PatchCamelyon benchmark model in the paper `B. S. Veeling, J. Linmans, J. Winkens, T. Cohen, M. Welling. "Rotation Equivariant CNNs for Digital Pathology". arXiv:1806.03962` (AUC 96.3%). Although people cheated using the method I discovered in the competition, I was still ranked TOP 10% with my hardwork.'
     url: "https://www.kaggle.com/c/histopathologic-cancer-detection/discussion/87367"
     btn_label: "See Technical Detail"
     btn_class: "btn--primary"
     section_name: "0"
 imet:
-  - image_path: /assets/images/nail2.jpg
-    excerpt: 'No information so far because I am currently competiting in this competition'
-    url: ...
-    btn_label: "..."
+  - image_path: /assets/images/imet.png
+    excerpt: '**Image: Kaggle Competition**<br/>---<br/>Time: `2019`<br/><br/> >> In this Kaggle Competition, I used image classification techniques to automatically tag artworks for The Metropolitan Museum of Art.'
+    url: https://www.kaggle.com/c/imet-2019-fgvc6
+    btn_label: "Competition Website"
     btn_class: "btn--primary"
     section_name: "0"
 gratification:
-  - image_path: /assets/images/nail2.jpg
-    excerpt: 'No information so far because I am currently competiting in this competition'
-    url: ...
-    btn_label: "..."
+  - image_path: /assets/images/instant.png
+    excerpt: '**Image: Kaggle Competition**<br/>---<br/>Time: `2019`<br/>Achievements: `97.140% AUC score`<br/><br/> >> In this Kaggle Competition, I used the Gaussian Mixture Model to build a predictive model to generalized numerical relationship in a `USB stick that washed ashore in a bottle` according to Kaggle.'
+    url: https://www.kaggle.com/c/instant-gratification
+    btn_label: "Competition Website"
+    btn_class: "btn--primary"
+    section_name: "0"
+cloud:
+  - image_path: /assets/images/cloud.png
+    excerpt: '**Image: Kaggle Competition**<br/>---<br/>Time: `2019`<br/>Achievements: `65.239% Dice score`<br/><br/> >> In this Kaggle Competition, our team used voting ensembles of 3 different deep learning models to segment regions of cloud images into 4 categories.'
+    url: https://www.kaggle.com/c/understanding_cloud_organization/overview
+    btn_label: "Competition Website"
     btn_class: "btn--primary"
     section_name: "0"
 ---
 {% include box height="8px" color="b7ba53" %}
-My motivation for learning AI is that it can be used in many fields. “It is only a tool,” I thought but later I realized that the theory of training neural networks can be used for human learning too. “The biggest benefit that AI brought to us is not only a strong algorithm but also the theory of learning.”"
+My motivation for learning AI is that it can be used in many fields. “It is only a tool,” I thought but later I realized that the theory of training neural networks can be used for human learning too. “The biggest benefit that AI brought to us is not only a strong algorithm but also the theory of learning.”
 
 My interest in wanting to know the fundamental mechanisms behind AI drove me into Udacity’s Machine Learning online course. In 1.5 years, I graduated from Machine Learning (Basics) and Deep Learning (Advanced) Nanodegrees. Although the knowledge these courses provide is too basic compared to tricks used in Kaggle competitions by PHDs and graduate students, these courses introduced me to a group of alumni and dragged me into the AI research circle. Three years ago, I started with nothing, but now I compete with other AI researchers as a high school student.
 
@@ -142,4 +149,9 @@ Here are some projects I did as I gradually entered the field of AI.
 # Kaggle: Instant Gratification
 ---
 {% include feature_row id="gratification" type="left" %}
+{: .notice--success}
+---
+# Kaggle: Understanding Clouds from Satellite Images
+---
+{% include feature_row id="cloud" type="left" %}
 {: .notice--success}

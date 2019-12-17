@@ -16,7 +16,7 @@ last_modified_at: 2019-04-03T15:15:09-04:00
 toc: false
 kokicraft:
   - image_path: /assets/images/nail6.jpg
-    excerpt: '**Image: Game Poster**<br/>---<br/>Time: `2014-2018`<br/>Achievements: `First Buesness Created by Myself` `344,941 players` `$500 USD/month`<br/><br/> >> This is a well-known Minecraft Server in China founded, hosted, and coded by myself. In my 13 years old, it was my first business creating $500 USD per month. I learned how to host a server, prevent DDoS attacks, use SQL Databases, optimize the experience, handling relationships with other competitors, and program a game. During the process, many players and developers who enjoyed my server joined the team and helped to create texture, videos, etc... for my server.'
+    excerpt: '**Image: Game Poster**<br/>---<br/>Time: `2014-2018`<br/>Achievements: `First Business Created by Myself` `344,941 players` `$500 USD/month`<br/><br/> >> KokiCraft Network was an online organization I founded in 2014 with only $30. It was 1st GTA Minecraft Server in China according to MCBBS, generating ~$500/month in revenue while serving close to 350,000 players with 10 sub-servers of different gameplay. I maintained monthly updates to introduce new elements in the game for a better user experience. I even recruited a customer support team from authorized players. The server defended against ~50 DDoS attacks /month.'
     url: https://www.youtube.com/watch?v=PhJq5YnzfUo
     btn_label: "KokiCraft Trailer Video"
     btn_class: "btn--primary"
@@ -43,8 +43,8 @@ web:
     btn_class: "btn--primary"
     section_name: "0"
 nigeria:
-  - image_path: /assets/images/web.jpg
-    excerpt: '**Image: Helping Carrers of Nigerian Farmers**<br/>---<br/>Time: `2018`<br/>Achievements: `...`<br/><br/> >> 597 Sandy Spring Friends School - Leadership Initiatives IBIP'
+  - image_path: /assets/images/nigeria.jpg
+    excerpt: '**Image: Helping Carrers of Nigerian Farmers**<br/>---<br/>Time: `2018`<br/>Achievements: `...`<br/><br/> >> Our team provides business strategies for the Nigerian Kawu Irrigation Farm. We monitored soil tests for NPK, pH, and salinity. We also made proposals through local experiments with biochar crop rotation (tomatoes, cassava, pepper, okra) to reduce water and fertilizer consumption. We wrote articles for local newspapers to raise awareness of the importance of education in business. Our profit ended up supporting 19 local orphans’ college education.'
     url: https://icantransformtheworld.org/597-sandy-spring-friends-school/
     btn_label: "Volunteering Team Webpage"
     btn_class: "btn--primary"
@@ -53,17 +53,16 @@ nigeria:
 <div style="background:#afafafcc;height:8px;"></div>
 
 ---
-# KokiCraft: The Best GTA Minecraft game server in mainland China
+# Business Founder & Owner of KokiCraft online game server
 ---
 {% include feature_row id="kokicraft" type="left" %}
 {: .notice--primary}
 
 ---
-# Farmer's Solution: Helping Nigeria Farmers with Scientific Approach
+# Special Project Chair of Intl. Business Internship Program
 ---
-{% include feature_row id="farmer" type="left" %}
+{% include feature_row id="nigeria" type="left" %}
 {: .notice--primary}
-
 
 ---
 # Google Code-in: Terasology Open Source Game Development
@@ -77,17 +76,10 @@ nigeria:
 {% include feature_row id="chaos" type="left" %}
 {: .notice--primary}
 
-
 ---
 # Web Development / UI Design
 ---
 {% include feature_row id="web" type="left" %}
-{: .notice--primary}
-
----
-# Nigeria Stuff
----
-{% include feature_row id="nigeria" type="left" %}
 {: .notice--primary}
 
 ---
