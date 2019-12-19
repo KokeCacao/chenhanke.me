@@ -49,6 +49,13 @@ nigeria:
     btn_label: "Volunteering Team Webpage"
     btn_class: "btn--primary"
     section_name: "0"
+hack:
+  - image_path: /assets/images/hack.png
+    excerpt: '**Image: Errors on Stanford Database System**<br/>---<br/>Time: `2018`<br/>Achievements: `A thanks letter from Stanford Admin`<br/><br/> >> While working on my application to the Stanford Pre-Collegiate summer program, I discovered a database injection security vulnerability on its website. I soon wrote up a report, proposed a fix patch, and communicated the issue with the relevant personnel at the school using encrypted email, and received a thank-you note from them.'
+    url: /assets/pdf/hack.pdf
+    btn_label: "See Original Emails"
+    btn_class: "btn--primary"
+    section_name: "0"
 ---
 <div style="background:#afafafcc;height:8px;"></div>
 
@@ -80,6 +87,12 @@ nigeria:
 # Web Development / UI Design
 ---
 {% include feature_row id="web" type="left" %}
+{: .notice--primary}
+
+---
+# Reporting Cybersecurity Issues to Stanford’s Website
+---
+{% include feature_row id="hack" type="left" %}
 {: .notice--primary}
 
 ---

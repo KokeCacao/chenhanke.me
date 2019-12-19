@@ -93,6 +93,8 @@ cloud:
     section_name: "0"
 ---
 {% include box height="8px" color="b7ba53" %}
+
+![kaggle_discussion.png]({{ "/assets/images/kaggle_discussion.png" | relative_url }}){: .align-left}
 My motivation for learning AI is that it can be used in many fields. “It is only a tool,” I thought but later I realized that the theory of training neural networks can be used for human learning too. “The biggest benefit that AI brought to us is not only a strong algorithm but also the theory of learning.”
 
 My interest in wanting to know the fundamental mechanisms behind AI drove me into Udacity’s Machine Learning online course. In 1.5 years, I graduated from Machine Learning (Basics) and Deep Learning (Advanced) Nanodegrees. Although the knowledge these courses provide is too basic compared to tricks used in Kaggle competitions by PHDs and graduate students, these courses introduced me to a group of alumni and dragged me into the AI research circle. Three years ago, I started with nothing, but now I compete with other AI researchers as a high school student.
