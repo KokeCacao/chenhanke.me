@@ -103,6 +103,48 @@ gallery_list:
     title: "Class Logo Design"
     col: 1
     description: "When classmates wearning the badge"
+  - url: /assets/images/cup_1.jpg
+    image_path: /assets/images/cup_1.jpg
+    alt: ""
+    title: "Cup 1"
+    col: 1
+    description: ""
+  - url: /assets/images/cup_2.jpg
+    image_path: /assets/images/cup_2.jpg
+    alt: ""
+    title: "Cup 2"
+    col: 1
+    description: ""
+  - url: /assets/images/cup_3.jpg
+    image_path: /assets/images/cup_3.jpg
+    alt: ""
+    title: "Cup 3"
+    col: 1
+    description: ""
+  - url: /assets/images/cup_4.jpg
+    image_path: /assets/images/cup_4.jpg
+    alt: ""
+    title: "Cup 4"
+    col: 1
+    description: ""
+  - url: /assets/images/cup_5.jpg
+    image_path: /assets/images/cup_5.jpg
+    alt: ""
+    title: "Cup 5"
+    col: 1
+    description: ""
+  - url: /assets/images/head.jpg
+    image_path: /assets/images/head.jpg
+    alt: ""
+    title: "Head"
+    col: 0
+    description: ""
+  - url: /assets/images/taste.jpg
+    image_path: /assets/images/taste.jpg
+    alt: ""
+    title: "Taste"
+    col: 2
+    description: ""
 silicon:
   - image_path: /assets/images/02-科学手绘01.png
     excerpt: '**Image: Manuscripts Sample**<br/>---<br/>Time: `2018`<br/>Material: `Watercolor` `Ink`<br/><br/> >> I used manuscripts to record my idea of possible life forms based on Silicon instead of Carbon. The chemical properties of silicon based compound gives their species unique features like having slow reaction time, living in water, and requiring high pressure. These drawing demonstrates and record my idea of how these life forms with specific properties above would look like if they exist.'
