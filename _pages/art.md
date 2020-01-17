@@ -59,43 +59,43 @@ gallery_list:
     image_path: /assets/images/04-人像.png
     alt: ""
     title: ""
-    col: 2
+    col: 0
     description: ""
   - url: /assets/images/04-自画像01.png
     image_path: /assets/images/04-自画像01.png
     alt: ""
     title: ""
-    col: 0
+    col: 1
     description: ""
   - url: /assets/images/05-科学动漫hungerisnotagame.jpg
     image_path: /assets/images/05-科学动漫hungerisnotagame.jpg
     alt: ""
     title: ""
-    col: 1
+    col: 2
     description: ""
   - url: /assets/images/06-动漫形象01.png
     image_path: /assets/images/06-动漫形象01.png
     alt: ""
     title: ""
-    col: 2
+    col: 0
     description: ""
   - url: /assets/images/06-动漫形象02.png
     image_path: /assets/images/06-动漫形象02.png
     alt: ""
     title: ""
-    col: 0
+    col: 1
     description: ""
   - url: /assets/images/07-版画鱼.png
     image_path: /assets/images/07-版画鱼.png
     alt: ""
     title: "The Night"
-    col: 1
+    col: 2
     description: "a rubber print board with black paint"
   - url: /assets/images/08-学校服装LOGO设计01.png
     image_path: /assets/images/08-学校服装LOGO设计01.png
     alt: ""
     title: "Class Logo Design"
-    col: 2
+    col: 0
     description: "An example of the badge design"
   - url: /assets/images/08-学校服装LOGO设计01.png
     image_path: /assets/images/08-学校服装LOGO设计02.png
@@ -107,13 +107,13 @@ gallery_list:
     image_path: /assets/images/cup_1.jpg
     alt: ""
     title: "Cup 1"
-    col: 1
+    col: 2
     description: ""
   - url: /assets/images/cup_2.jpg
     image_path: /assets/images/cup_2.jpg
     alt: ""
     title: "Cup 2"
-    col: 1
+    col: 0
     description: ""
   - url: /assets/images/cup_3.jpg
     image_path: /assets/images/cup_3.jpg
@@ -125,25 +125,37 @@ gallery_list:
     image_path: /assets/images/cup_4.jpg
     alt: ""
     title: "Cup 4"
-    col: 1
+    col: 2
     description: ""
   - url: /assets/images/cup_5.jpg
     image_path: /assets/images/cup_5.jpg
     alt: ""
     title: "Cup 5"
-    col: 1
+    col: 0
     description: ""
   - url: /assets/images/head.jpg
     image_path: /assets/images/head.jpg
     alt: ""
     title: "Head"
-    col: 0
+    col: 1
     description: ""
   - url: /assets/images/taste.jpg
     image_path: /assets/images/taste.jpg
     alt: ""
     title: "Taste"
     col: 2
+    description: ""
+  - url: /assets/images/copy-bird.jpg
+    image_path: /assets/images/copy-bird.jpg
+    alt: ""
+    title: "copy-bird"
+    col: 0
+    description: ""
+  - url: /assets/images/text.jpg
+    image_path: /assets/images/text.jpg
+    alt: ""
+    title: "text"
+    col: 1
     description: ""
 silicon:
   - image_path: /assets/images/02-科学手绘01.png
@@ -249,6 +261,49 @@ portfolio-20:
 What is art? To me, art is a way of thinking. It is a representation of the nature, a dimensional interpretations, a sensitivty to shapes and color. Art is an idea, an idea that brings big innovations.
 {% include box height="8px" color="e2bbbb" %}
 
+---
+# Portfolio
+---
+{% include feature_row id="portfolio-1" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-2" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-3" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-4" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-5" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-6" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-7" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-8" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-9" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-10" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-11" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-12" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-13" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-14" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-15" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-16" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-17" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-18" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-19" type="left" %}
+{: .notice--danger}
+{% include feature_row id="portfolio-20" type="left" %}
+{: .notice--danger}
 ---
 # PSA Animation: Hunger is not a Game
 ---
