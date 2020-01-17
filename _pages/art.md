@@ -142,19 +142,25 @@ gallery_list:
   - url: /assets/images/taste.jpg
     image_path: /assets/images/taste.jpg
     alt: ""
-    title: "Taste"
+    title: "Taste of Bad Milk"
     col: 2
     description: ""
   - url: /assets/images/copy-bird.jpg
     image_path: /assets/images/copy-bird.jpg
     alt: ""
-    title: "copy-bird"
+    title: "Bird"
     col: 0
     description: ""
   - url: /assets/images/text.jpg
     image_path: /assets/images/text.jpg
     alt: ""
-    title: "text"
+    title: "Read Not Write"
+    col: 1
+    description: ""
+  - url: /assets/images/Mona_Lisa_16_processed_processed_psd.png
+    image_path: /assets/images/Mona_Lisa_16_processed_processed_psd.png
+    alt: ""
+    title: "MonaLisa After Convolution"
     col: 1
     description: ""
 silicon:
