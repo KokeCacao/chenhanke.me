@@ -128,15 +128,16 @@ $base0e: #c792ea !default;
 $base0f: #ff5370 !default;
 
 /*
-   Breakpoints
+   Breakpoints - a library that adjust layout based on the size of the window
    ========================================================================== */
 
 $small: 600px !default;
 $medium: 768px !default;
 $medium-wide: 900px !default;
-$large: 1024px !default;
+/*HANKE: Changed from 1024*/
+$large: 1536px !default;
 /*HANKE: Changed from 1028*/
-$x-large: 2000px !default;
+$x-large: 2048px !default;
 $max-width: $x-large !default;
 
 /*
