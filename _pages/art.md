@@ -163,6 +163,86 @@ flower:
     btn_label: "More Pictures"
     btn_class: "btn--primary"
     section_name: "0"
+portfolio-1:
+  - image_path: /assets/images/portfolio_1.png
+    excerpt: ''
+    section_name: "0"
+portfolio-2:
+  - image_path: /assets/images/portfolio_2.png
+    excerpt: ''
+    section_name: "0"
+portfolio-3:
+  - image_path: /assets/images/portfolio_3.png
+    excerpt: ''
+    section_name: "0"
+portfolio-4:
+  - image_path: /assets/images/portfolio_4.png
+    excerpt: ''
+    section_name: "0"
+portfolio-5:
+  - image_path: /assets/images/portfolio_5.png
+    excerpt: ''
+    section_name: "0"
+portfolio-6:
+  - image_path: /assets/images/portfolio_6.png
+    excerpt: ''
+    section_name: "0"
+portfolio-7:
+  - image_path: /assets/images/portfolio_7.png
+    excerpt: ''
+    section_name: "0"
+portfolio-8:
+  - image_path: /assets/images/portfolio_8.png
+    excerpt: ''
+    section_name: "0"
+portfolio-9:
+  - image_path: /assets/images/portfolio_9.png
+    excerpt: ''
+    section_name: "0"
+portfolio-10:
+  - image_path: /assets/images/portfolio_10.png
+    excerpt: ''
+    section_name: "0"
+portfolio-11:
+  - image_path: /assets/images/portfolio_11.png
+    excerpt: ''
+    section_name: "0"
+portfolio-12:
+  - image_path: /assets/images/portfolio_12.png
+    excerpt: ''
+    section_name: "0"
+portfolio-13:
+  - image_path: /assets/images/portfolio_13.png
+    excerpt: ''
+    section_name: "0"
+portfolio-14:
+  - image_path: /assets/images/portfolio_14.png
+    excerpt: ''
+    section_name: "0"
+portfolio-15:
+  - image_path: /assets/images/portfolio_15.png
+    excerpt: ''
+    section_name: "0"
+portfolio-16:
+  - image_path: /assets/images/portfolio_16.png
+    excerpt: ''
+    section_name: "0"
+portfolio-17:
+  - image_path: /assets/images/portfolio_17.png
+    excerpt: ''
+    section_name: "0"
+portfolio-18:
+  - image_path: /assets/images/portfolio_18.png
+    excerpt: ''
+    section_name: "0"
+portfolio-19:
+  - image_path: /assets/images/portfolio_19.png
+    excerpt: ''
+    section_name: "0"
+portfolio-20:
+  - image_path: /assets/images/portfolio_20.png
+    excerpt: ''
+    section_name: "0"
 ---
 
 {% include box height="8px" color="e2bbbb" %}
