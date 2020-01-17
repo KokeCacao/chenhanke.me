@@ -45,7 +45,7 @@ Robotics is a conglomeration of Engineering, Computer Science, and Artificial In
 ---
 {% include feature_row id="stanford" type="left" %}
 {: .notice--info}
-Click [Jupyter Notebook](/assets/html/ReinforcementLearningOnHamster.html){: .btn .btn--info} to see simulation of the robot.
+Click [Jupyter Notebook](/chenhanke.me/assets/html/ReinforcementLearningOnHamster.html){: .btn .btn--info} to see simulation of the robot.
 {: style="text-align: center;"}
 
 ---
