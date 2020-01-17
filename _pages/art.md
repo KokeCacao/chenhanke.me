@@ -18,6 +18,67 @@ gallery_col:
   - 0
   - 1
   - 2
+portfolio:
+  - url: /assets/images/portfolio_1.png
+    image_path: /assets/images/portfolio_1.png
+    alt: ""
+  - url: /assets/images/portfolio_2.png
+    image_path: /assets/images/portfolio_2.png
+    alt: ""
+  - url: /assets/images/portfolio_3.png
+    image_path: /assets/images/portfolio_3.png
+    alt: ""
+  - url: /assets/images/portfolio_4.png
+    image_path: /assets/images/portfolio_4.png
+    alt: ""
+  - url: /assets/images/portfolio_5.png
+    image_path: /assets/images/portfolio_5.png
+    alt: ""
+  - url: /assets/images/portfolio_6.png
+    image_path: /assets/images/portfolio_6.png
+    alt: ""
+  - url: /assets/images/portfolio_7.png
+    image_path: /assets/images/portfolio_7.png
+    alt: ""
+  - url: /assets/images/portfolio_8.png
+    image_path: /assets/images/portfolio_8.png
+    alt: ""
+  - url: /assets/images/portfolio_9.png
+    image_path: /assets/images/portfolio_9.png
+    alt: ""
+  - url: /assets/images/portfolio_10.png
+    image_path: /assets/images/portfolio_10.png
+    alt: ""
+  - url: /assets/images/portfolio_11.png
+    image_path: /assets/images/portfolio_11.png
+    alt: ""
+  - url: /assets/images/portfolio_12.png
+    image_path: /assets/images/portfolio_12.png
+    alt: ""
+  - url: /assets/images/portfolio_13.png
+    image_path: /assets/images/portfolio_13.png
+    alt: ""
+  - url: /assets/images/portfolio_14.png
+    image_path: /assets/images/portfolio_14.png
+    alt: ""
+  - url: /assets/images/portfolio_15.png
+    image_path: /assets/images/portfolio_15.png
+    alt: ""
+  - url: /assets/images/portfolio_16.png
+    image_path: /assets/images/portfolio_16.png
+    alt: ""
+  - url: /assets/images/portfolio_17.png
+    image_path: /assets/images/portfolio_17.png
+    alt: ""
+  - url: /assets/images/portfolio_18.png
+    image_path: /assets/images/portfolio_18.png
+    alt: ""
+  - url: /assets/images/portfolio_19.png
+    image_path: /assets/images/portfolio_19.png
+    alt: ""
+  - url: /assets/images/portfolio_20.png
+    image_path: /assets/images/portfolio_20.png
+    alt: ""
 gallery_list:
   - url: /assets/files/rain.pdf
     image_path: /assets/images/rain.png
@@ -181,135 +242,12 @@ flower:
     btn_label: "More Pictures"
     btn_class: "btn--primary"
     section_name: "0"
-portfolio-1:
-  - image_path: /assets/images/portfolio_1.png
-    excerpt: ''
-    section_name: "0"
-portfolio-2:
-  - image_path: /assets/images/portfolio_2.png
-    excerpt: ''
-    section_name: "0"
-portfolio-3:
-  - image_path: /assets/images/portfolio_3.png
-    excerpt: ''
-    section_name: "0"
-portfolio-4:
-  - image_path: /assets/images/portfolio_4.png
-    excerpt: ''
-    section_name: "0"
-portfolio-5:
-  - image_path: /assets/images/portfolio_5.png
-    excerpt: ''
-    section_name: "0"
-portfolio-6:
-  - image_path: /assets/images/portfolio_6.png
-    excerpt: ''
-    section_name: "0"
-portfolio-7:
-  - image_path: /assets/images/portfolio_7.png
-    excerpt: ''
-    section_name: "0"
-portfolio-8:
-  - image_path: /assets/images/portfolio_8.png
-    excerpt: ''
-    section_name: "0"
-portfolio-9:
-  - image_path: /assets/images/portfolio_9.png
-    excerpt: ''
-    section_name: "0"
-portfolio-10:
-  - image_path: /assets/images/portfolio_10.png
-    excerpt: ''
-    section_name: "0"
-portfolio-11:
-  - image_path: /assets/images/portfolio_11.png
-    excerpt: ''
-    section_name: "0"
-portfolio-12:
-  - image_path: /assets/images/portfolio_12.png
-    excerpt: ''
-    section_name: "0"
-portfolio-13:
-  - image_path: /assets/images/portfolio_13.png
-    excerpt: ''
-    section_name: "0"
-portfolio-14:
-  - image_path: /assets/images/portfolio_14.png
-    excerpt: ''
-    section_name: "0"
-portfolio-15:
-  - image_path: /assets/images/portfolio_15.png
-    excerpt: ''
-    section_name: "0"
-portfolio-16:
-  - image_path: /assets/images/portfolio_16.png
-    excerpt: ''
-    section_name: "0"
-portfolio-17:
-  - image_path: /assets/images/portfolio_17.png
-    excerpt: ''
-    section_name: "0"
-portfolio-18:
-  - image_path: /assets/images/portfolio_18.png
-    excerpt: ''
-    section_name: "0"
-portfolio-19:
-  - image_path: /assets/images/portfolio_19.png
-    excerpt: ''
-    section_name: "0"
-portfolio-20:
-  - image_path: /assets/images/portfolio_20.png
-    excerpt: ''
-    section_name: "0"
 ---
 
 {% include box height="8px" color="e2bbbb" %}
 What is art? To me, art is a way of thinking. It is a representation of the nature, a dimensional interpretations, a sensitivty to shapes and color. Art is an idea, an idea that brings big innovations.
 {% include box height="8px" color="e2bbbb" %}
 
----
-# Portfolio
----
-{% include feature_row id="portfolio-1" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-2" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-3" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-4" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-5" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-6" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-7" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-8" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-9" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-10" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-11" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-12" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-13" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-14" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-15" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-16" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-17" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-18" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-19" type="left" %}
-{: .notice--danger}
-{% include feature_row id="portfolio-20" type="left" %}
-{: .notice--danger}
 ---
 # PSA Animation: Hunger is not a Game
 ---
@@ -327,7 +265,12 @@ What is art? To me, art is a way of thinking. It is a representation of the natu
 {% include feature_row id="flower" type="left" %}
 {: .notice--danger}
 ---
-# Other
+# Portfolio
+---
+{% include gallery layout="single" id="portfolio" caption="" %}
+
+---
+# Works
 ---
 {% include gallery_list id="gallery_list" col="gallery_col" caption="" %}
 ---
