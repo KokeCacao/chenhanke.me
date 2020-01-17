@@ -23,7 +23,7 @@ qubo:
     section_name: "0"
 stanford:
   - image_path: assets/images/nail3.jpg
-    excerpt: '**Image: Reinforcement Algorithm and the Robot**<br/>---<br/>`Time: 2018`<br/>Achievements: `Reinforcement Learning Algorithm`<br/><br/> >> In this summer school, I followed Stanford CS231n curriculum and programmed a robot capable of doing tasks like dancing, sweeping the floor, and solving a maze. I also used Reinforcement Learning to optimize the path taken with dynamic risk calculations. This technology I programmed is important because it allows the robot to perform dynamic path planning in different unknown environments.<br/>(Jupyter Notebook)[/assets/html/ReinforcementLearningOnHamster.html]'
+    excerpt: '**Image: Reinforcement Algorithm and the Robot**<br/>---<br/>`Time: 2018`<br/>Achievements: `Reinforcement Learning Algorithm`<br/><br/> >> In this summer school, I followed Stanford CS231n curriculum and programmed a robot capable of doing tasks like dancing, sweeping the floor, and solving a maze. I also used Reinforcement Learning to optimize the path taken with dynamic risk calculations. This technology I programmed is important because it allows the robot to perform dynamic path planning in different unknown environments.<br/>'
     url: https://docs.google.com/presentation/d/e/2PACX-1vTtiaaXqzYCp5xfXZEPY_MdCfOoejTaMRNL6lZAnRQoCG7xd-hUmVoHIkVr8_za0w/pub?start=true&loop=true&delayms=2000
     btn_label: "Power Point"
     btn_class: "btn--primary"
@@ -45,6 +45,9 @@ Robotics is a conglomeration of Engineering, Computer Science, and Artificial In
 ---
 {% include feature_row id="stanford" type="left" %}
 {: .notice--info}
+Click [Jupyter Notebook](/assets/html/ReinforcementLearningOnHamster.html){: .btn .btn--info} to see simulation of the robot.
+{: style="text-align: center;"}
+
 ---
 # Qubo: An Underwater Robot for RoboSub Competition
 ---

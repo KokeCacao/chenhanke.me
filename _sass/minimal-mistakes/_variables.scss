@@ -131,13 +131,21 @@ $base0f: #ff5370 !default;
    Breakpoints - a library that adjust layout based on the size of the window
    ========================================================================== */
 
-$small: 600px !default;
-$medium: 768px !default;
-$medium-wide: 900px !default;
+/*HANKE: Changed from 600*/
+$small: 950px !default; /* completely phone view */
+
+/*HANKE: Changed from 768*/
+$medium: 950px !default; /* text font change */
+
+/*HANKE: Changed from 900*/
+$medium-wide: 1024px !default; /* does nothing */
+
 /*HANKE: Changed from 1024*/
-$large: 1536px !default;
+$large: 1536px !default; /* completely laptop view */
+
 /*HANKE: Changed from 1028*/
 $x-large: 2048px !default;
+
 $max-width: $x-large !default;
 
 /*
