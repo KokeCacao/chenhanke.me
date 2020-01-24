@@ -7,10 +7,12 @@ tags:
 ---
 
 # Bio
+```
 Title: Programmer's Notebook
 Name: Hanke Chen
 Theme: the effect of AI and technology on our society
 Audience: graduating upper class highschool students who have common sense
+```
 
 Hi, I'm Hanke with an "E." A high school senior who is really interested in building AI-related baubles. I am a typical high school student except I am also the type of nerd who builds robots on Christmas Eve, or codes at a friends' birthday party.
 After finished two research reports as a student researcher at X-Order Lab, I am gradually stepping in the Machine Learning research field. I feel empowered to talk about the issues around Artificial Intelligence. The blog "Programmer's Notebook" is how a nerd majoring in Computer Science look at technologies, lives, and our society.
@@ -18,7 +20,7 @@ After finished two research reports as a student researcher at X-Order Lab, I am
 # Post 1 - World Full of Uncertainty: A Discussion of Bias (669 words)
 What is bias? When and why do we have biases?
 
-Examples of biases can be found everywhere. WeChat [link], a social media app that has almost 900 million users, blamed the use of racial slurs on an error in the artificial intelligence software that translated between English and Chinese. Ann James only noticed it when the message "the black foreigner is late" was translated to a message that contains the n-word. (Haas, Benjamin. "China's WeChat app translates 'black foreigner' to N-word." The Guardian, 2017, www.theguardian.com/world/2017/oct/13/ chinas-wechat-app-translates-black-foreigner-to-n-word. Accessed 3 Apr. 2019.) Moreover, a paper published on PsyArXiv named "Deep neural networks are more accurate than humans at detecting sexual orientation from facial images" proposed a method to detect people's sexual orientation based only on facial images. Not only could it classify people, but the researchers were also able to generate machines' stereotype of the faces. Was this research biased? This shocking research challenges us to re-think what biases are and where they come from.
+Examples of biases can be found everywhere. [WeChat](https://en.wikipedia.org/wiki/WeChat), a social media app that has almost 900 million users, blamed the use of racial slurs on an error in the artificial intelligence software that translated between English and Chinese. Ann James only noticed it when the message "the black foreigner is late" was translated to a message that contains the n-word. (Haas, Benjamin. "China's WeChat app translates 'black foreigner' to N-word." The Guardian, 2017, www.theguardian.com/world/2017/oct/13/ chinas-wechat-app-translates-black-foreigner-to-n-word. Accessed 3 Apr. 2019.) Moreover, a paper published on PsyArXiv named "Deep neural networks are more accurate than humans at detecting sexual orientation from facial images" proposed a method to detect people's sexual orientation based only on facial images. Not only could it classify people, but the researchers were also able to generate machines' stereotype of the faces. Was this research biased? This shocking research challenges us to re-think what biases are and where they come from.
 
 To understand where biases come from, let's first look at how machines learn. Nowadays, machines learn from existing data created by humans. The data can be images, text, or your tweeter messages published last Friday. Big technology companies like Google and Facebook are all taking advantage of these human inputs to train their own artificial intelligence to read and understand texts, produce voices, and recommend items on Amazon. When machines get the data, they replicate the way these data are generated. Much like how you learn Spanish: you first replicate adults' sounds before forming your own sentences by generalizing all the sounds you hear from your teacher. Unfortunately, machines' biases are cultivated by our own biased human input. Therefore, in order for machines to be free of bias, we must first be free of biases ourselves. But is it possible?
 
