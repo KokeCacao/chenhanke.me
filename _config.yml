@@ -304,21 +304,21 @@ timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 
 # Plugins (previously gems:)
+# removed jemoji for dependency issues
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
+# removed jemoji for dependency issues
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 
