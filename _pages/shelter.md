@@ -19,6 +19,24 @@ gallery_col:
   - 1
   - 2
 gallery_list:
+  - url: /assets/3d/desk_screenshot.png
+    image_path: /assets/3d/desk_screenshot.png
+    alt: ""
+    title: "A Desk in Rins Room"
+    col: 0
+    description: "A desk that appear multiple time in Rins room."
+  - url: /assets/3d/earphone_screenshot.png
+    image_path: /assets/3d/earphone_screenshot.png
+    alt: ""
+    title: "Rins Earphone"
+    col: 1
+    description: "An earphone in Rin's room."
+  - url: /assets/3d/shoe_screenshot.png
+    image_path: /assets/3d/shoe_screenshot.png
+    alt: ""
+    title: "Rins Shoe"
+    col: 2
+    description: "A shoe in Rin's room"
   - url: /assets/3d/bear.png
     image_path: /assets/3d/bear.png
     alt: ""
