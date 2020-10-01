@@ -19,19 +19,19 @@ gallery_col:
   - 1
   - 2
 gallery_list:
-  - url: /assets/3d/desk_screenshot.png
+  - url: https://sketchfab.com/3d-models/desk-d7d26cf095de45bea92f54d7b09b7d27
     image_path: /assets/3d/desk_screenshot.png
     alt: ""
     title: "A Desk in Rins Room"
     col: 0
     description: "A desk that appear multiple time in Rins room."
-  - url: /assets/3d/earphone_screenshot.png
+  - url: https://sketchfab.com/3d-models/earphone-36920f4211bb4d269dd125f31ca68728
     image_path: /assets/3d/earphone_screenshot.png
     alt: ""
     title: "Rins Earphone"
     col: 1
     description: "An earphone in Rin's room."
-  - url: /assets/3d/shoe_screenshot.png
+  - url: https://sketchfab.com/3d-models/shoe-f2c4d741d91849c084805fe128f41f94
     image_path: /assets/3d/shoe_screenshot.png
     alt: ""
     title: "Rins Shoe"
