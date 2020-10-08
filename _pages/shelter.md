@@ -19,6 +19,24 @@ gallery_col:
   - 1
   - 2
 gallery_list:
+  - url: https://sketchfab.com/3d-models/box-fdf0c60688ff405897ddc3077a245330
+    image_path: /assets/3d/box_screenshot.png
+    alt: ""
+    title: "Box"
+    col: 0
+    description: "."
+  - url: https://sketchfab.com/3d-models/rin-42332f915d6f4cedbeb7ae9030872e8d
+    image_path: /assets/3d/rin_screenshot.png
+    alt: ""
+    title: "Rin"
+    col: 1
+    description: ""
+  - url: https://sketchfab.com/3d-models/plant-a3bdf64f98dd48adae6758e72e1c96d7
+    image_path: /assets/3d/plant_screenshot.png
+    alt: ""
+    title: "Plant"
+    col: 2
+    description: ""
   - url: https://sketchfab.com/3d-models/desk-d7d26cf095de45bea92f54d7b09b7d27
     image_path: /assets/3d/desk_screenshot.png
     alt: ""
