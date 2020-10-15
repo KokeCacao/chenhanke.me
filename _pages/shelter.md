@@ -161,8 +161,15 @@ Shelter tells the story of Rin, a 17-year-old girl who lives her life inside of 
 # Finished Product
 ---
 
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_8x.png" alt="">
+  <figcaption>Finished Rendering</figcaption>
+</figure>
+
+There are 16 original voxel models. All with drawn texture from all sides. You can zoom in to see the details. Each model, depending on the complexity, took me from 20 minutes to 4 hours. The rendering took about 3 hours. I spend about half of the time getting familier with all the tools to create models, textures, as well as rendering. In the end, I learned what I was eager to learn for years and create something I am proud of.
+
 <div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="1024" height="760" src="https://sketchfab.com/models/a4964b72b4a647c6884a0665661b3558/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe title="A 3D model" width="800" height="760" src="https://sketchfab.com/models/a4964b72b4a647c6884a0665661b3558/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/rins-room-a4964b72b4a647c6884a0665661b3558?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">rins_room</a>
         by <a href="https://sketchfab.com/Koke_Cacao?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Koke_Cacao</a>
@@ -170,16 +177,9 @@ Shelter tells the story of Rin, a 17-year-old girl who lives her life inside of 
     </p>
 </div>
 
-
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_8x.png" alt="">
-  <figcaption>Finished Rendering</figcaption>
-</figure>
-
-
 Join Hub: hub.link/BDGwrs7 (by Spoke)
 
-<iframe src="https://hubs.mozilla.com/BDGwrs7/?embed_token=7f3de485009ba6c475249509422fbf8d" style="width: 1024px; height: 760px;" allow="microphone; camera; vr; speaker;"></iframe>
+<iframe src="https://hubs.mozilla.com/BDGwrs7/?embed_token=7f3de485009ba6c475249509422fbf8d" style="width: 800px; height: 760px;" allow="microphone; camera; vr; speaker;"></iframe>
 
 
 ---
