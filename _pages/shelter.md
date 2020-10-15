@@ -64,7 +64,7 @@ gallery_list:
   - url: https://sketchfab.com/3d-models/rin-
     image_path: /assets/3d/light_screenshot.png
     alt: ""
-    title: "Loght"
+    title: "Light"
     col: 1
     description: ""
   - url: https://sketchfab.com/3d-models/plant-
@@ -162,7 +162,7 @@ Shelter tells the story of Rin, a 17-year-old girl who lives her life inside of 
 ---
 
 <div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/a4964b72b4a647c6884a0665661b3558/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe title="A 3D model" width="1024" height="760" src="https://sketchfab.com/models/a4964b72b4a647c6884a0665661b3558/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/rins-room-a4964b72b4a647c6884a0665661b3558?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">rins_room</a>
         by <a href="https://sketchfab.com/Koke_Cacao?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Koke_Cacao</a>
@@ -179,7 +179,7 @@ Shelter tells the story of Rin, a 17-year-old girl who lives her life inside of 
 
 Join Hub: hub.link/BDGwrs7 (by Spoke)
 
-<iframe src="https://hubs.mozilla.com/BDGwrs7/?embed_token=7f3de485009ba6c475249509422fbf8d" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
+<iframe src="https://hubs.mozilla.com/BDGwrs7/?embed_token=7f3de485009ba6c475249509422fbf8d" style="width: 1024px; height: 760px;" allow="microphone; camera; vr; speaker;"></iframe>
 
 
 ---
