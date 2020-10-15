@@ -19,7 +19,61 @@ gallery_col:
   - 1
   - 2
 gallery_list:
-  - url: https://sketchfab.com/3d-models/box-fdf0c60688ff405897ddc3077a245330
+  - url: https://sketchfab.com/3d-models/box-
+    image_path: /assets/3d/ipad_screenshot.png
+    alt: ""
+    title: "IPad"
+    col: 0
+    description: "."
+  - url: https://sketchfab.com/3d-models/rin-
+    image_path: /assets/3d/walls_screenshot.png
+    alt: ""
+    title: "Walls"
+    col: 1
+    description: ""
+  - url: https://sketchfab.com/3d-models/plant-
+    image_path: /assets/3d/table_screenshot.png
+    alt: ""
+    title: "Table"
+    col: 2
+    description: ""
+  - url: https://sketchfab.com/3d-models/box-
+    image_path: /assets/3d/books_screenshot.png
+    alt: ""
+    title: "Books"
+    col: 0
+    description: "."
+  - url: https://sketchfab.com/3d-models/rin-
+    image_path: /assets/3d/board_screenshot.png
+    alt: ""
+    title: "Board"
+    col: 1
+    description: ""
+  - url: https://sketchfab.com/3d-models/plant-
+    image_path: /assets/3d/hanger_screenshot.png
+    alt: ""
+    title: "Hanger"
+    col: 2
+    description: ""
+  - url: https://sketchfab.com/3d-models/box-
+    image_path: /assets/3d/closet_screenshot.png
+    alt: ""
+    title: "Closet"
+    col: 0
+    description: "."
+  - url: https://sketchfab.com/3d-models/rin-
+    image_path: /assets/3d/light_screenshot.png
+    alt: ""
+    title: "Loght"
+    col: 1
+    description: ""
+  - url: https://sketchfab.com/3d-models/plant-
+    image_path: /assets/3d/bed_screenshot.png
+    alt: ""
+    title: "Bed"
+    col: 2
+    description: ""
+  - url: https://sketchfab.com/3d-models/box-
     image_path: /assets/3d/box_screenshot.png
     alt: ""
     title: "Box"
