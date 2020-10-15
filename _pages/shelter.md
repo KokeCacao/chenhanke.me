@@ -104,7 +104,64 @@ Shelter tells the story of Rin, a 17-year-old girl who lives her life inside of 
 {% include feature_row id="shelter" type="left" %}
 {: .notice--danger}
 ---
+# Finished Product
+---
+
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/a4964b72b4a647c6884a0665661b3558/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/rins-room-a4964b72b4a647c6884a0665661b3558?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">rins_room</a>
+        by <a href="https://sketchfab.com/Koke_Cacao?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Koke_Cacao</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_8x.png" alt="">
+  <figcaption>Finished Rendering</figcaption>
+</figure>
+
+
+Join Hub: hub.link/BDGwrs7 (by Spoke)
+
+<iframe src="https://hubs.mozilla.com/BDGwrs7/?embed_token=7f3de485009ba6c475249509422fbf8d" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
+
+
+---
 # Documentation
+---
+
+For individual models, see the botton page.
+For rendering:
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_01.png" alt="">
+  <figcaption>1st Rendering</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_02.png" alt="">
+  <figcaption>2nd Rendering</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_03.png" alt="">
+  <figcaption>3rd Rendering</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_04.png" alt="">
+  <figcaption>4th Rendering</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_05.png" alt="">
+  <figcaption>5th Rendering</figcaption>
+</figure>
+
+---
+# Planning
 ---
 
 ## The Art of Exhibition
