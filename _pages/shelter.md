@@ -162,7 +162,7 @@ Shelter tells the story of Rin, a 17-year-old girl who lives her life inside of 
 ---
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_8x.png" alt="">
+  <img src="/assets/3d/rins_room_8x.png" alt="">
   <figcaption>Finished Rendering</figcaption>
 </figure>
 
@@ -190,27 +190,27 @@ For individual models, see the botton page.
 For rendering:
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_01.png" alt="">
+  <img src="/assets/3d/rins_room_01.png" alt="">
   <figcaption>1st Rendering</figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_02.png" alt="">
+  <img src="/assets/3d/rins_room_02.png" alt="">
   <figcaption>2nd Rendering</figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_03.png" alt="">
+  <img src="/assets/3d/rins_room_03.png" alt="">
   <figcaption>3rd Rendering</figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_04.png" alt="">
+  <img src="/assets/3d/rins_room_04.png" alt="">
   <figcaption>4th Rendering</figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/rins_room_05.png" alt="">
+  <img src="/assets/3d/rins_room_05.png" alt="">
   <figcaption>5th Rendering</figcaption>
 </figure>
 
@@ -222,7 +222,7 @@ For rendering:
 I intended to create a collection of individual objects that is relevent to the original music radio. Each object should have a cubical 3D model with texture. I can render each of them after applied texture.
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/image7.png" alt="">
+  <img src="/assets/3d/image7.png" alt="">
   <figcaption>An Image from the Internet that Demonstrates How Individual Cubical Objects can be Rendered</figcaption>
 </figure>
 
@@ -230,13 +230,13 @@ The final display of a collection will look like this:
 The assembled object will create a 3D scene for the story.
 
 <figure class="no-alignment">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/image2.png" alt="">
+  <img src="/assets/3d/image2.png" alt="">
   <figcaption>An Image from the Internet that Demonstrates How Individual Cubical Objects can be Assembled to a Room</figcaption>
 </figure>
 
 ## Object Design and Inspiration
 <figure class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/image4.png" alt="">
+  <img src="/assets/3d/image4.png" alt="">
   <figcaption>A Screenshot from the Original Music Video</figcaption>
 </figure>
 
@@ -245,23 +245,23 @@ This is Rin's bear from the original music video. It is a reuccuring symbol thro
 There are more images of them from different angles:
 
 <figure class="align-left" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/image14.png" alt="">
+  <img src="/assets/3d/image14.png" alt="">
 </figure>
 <figure class="align-left" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/image15.png" alt="">
+  <img src="/assets/3d/image15.png" alt="">
 </figure>
 
 Her IPad has the ability to create everything in the virtual reality by drawing.
 <figure class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/image8.png" alt="">
+  <img src="/assets/3d/image8.png" alt="">
   <figcaption>A Screenshot from the Original Music Video</figcaption>
 </figure>
 
 <figure class="align-left" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/image9.png" alt="">
+  <img src="/assets/3d/image9.png" alt="">
 </figure>
 <figure class="align-left" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/image12.png" alt="">
+  <img src="/assets/3d/image12.png" alt="">
 </figure>
 
 It also can recieve messages from Earth. However, the time passes quickly. She have not recieved any message for a long time.
@@ -269,7 +269,7 @@ It also can recieve messages from Earth. However, the time passes quickly. She h
 ---
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/3d/image10.png" alt="">
+  <img src="/assets/3d/image10.png" alt="">
   <figcaption>A Screenshot from the Original Music Video</figcaption>
 </figure>
 
